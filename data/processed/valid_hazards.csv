@@ -1,0 +1,1001 @@
+hazard_id,hazard_type,severity,latitude,longitude,timestamp,status,description,data_source
+RG-000001,flooding,6,12.881917,77.599083,2026-09-03T12:33:00,in_progress,Water accumulation reported on road,synthetic
+RG-000002,broken_streetlight,5,12.908961,77.555814,2026-03-05T23:41:00,resolved,Streetlight is not functioning,synthetic
+RG-000003,broken_streetlight,7,12.85607,77.671027,2026-08-06T02:32:00,in_progress,Streetlight is not functioning,synthetic
+RG-000004,accident,7,12.97264,77.588509,2026-06-25T08:09:00,resolved,Road accident reported,synthetic
+RG-000005,missing_sign,5,13.074698,77.517213,2026-06-28T02:24:00,resolved,Important road sign is missing,synthetic
+RG-000006,missing_sign,8,12.98951,77.5536,2026-07-29T23:31:00,resolved,Important road sign is missing,synthetic
+RG-000007,broken_streetlight,1,12.980402,77.580979,2026-05-16T12:54:00,in_progress,Streetlight is not functioning,synthetic
+RG-000008,damaged_road,9,13.003881,77.557117,2026-09-03T09:05:00,reported,Road surface is damaged,synthetic
+RG-000009,missing_sign,1,13.04409,77.537212,2026-02-11T05:07:00,in_progress,Important road sign is missing,synthetic
+RG-000010,flooding,8,13.024359,77.619975,2026-05-22T05:18:00,verified,Water accumulation reported on road,synthetic
+RG-000011,broken_streetlight,5,13.021274,77.631433,2026-08-09T15:44:00,in_progress,Streetlight is not functioning,synthetic
+RG-000012,damaged_road,7,12.862928,77.477655,2026-01-29T20:41:00,verified,Road surface is damaged,synthetic
+RG-000013,damaged_road,10,12.903821,77.749128,2026-07-30T03:22:00,in_progress,Road surface is damaged,synthetic
+RG-000014,damaged_road,3,13.048653,77.681261,2026-06-01T00:04:00,resolved,Road surface is damaged,synthetic
+RG-000015,pothole,8,12.942894,77.708654,2026-08-17T07:30:00,resolved,Large pothole reported on the road,synthetic
+RG-000016,missing_sign,1,12.949087,77.70344,2026-06-22T10:04:00,in_progress,Important road sign is missing,synthetic
+RG-000017,accident,3,13.031656,77.650529,2026-06-12T03:17:00,in_progress,Road accident reported,synthetic
+RG-000018,broken_streetlight,1,13.087919,77.488492,2026-02-01T00:19:00,in_progress,Streetlight is not functioning,synthetic
+RG-000019,missing_sign,4,12.909829,77.676519,2026-04-08T06:20:00,resolved,Important road sign is missing,synthetic
+RG-000020,pothole,9,12.91426,77.592438,2026-03-23T00:29:00,resolved,Large pothole reported on the road,synthetic
+RG-000021,broken_streetlight,8,12.885283,77.580239,2026-04-25T09:20:00,in_progress,Streetlight is not functioning,synthetic
+RG-000022,flooding,7,13.021709,77.536149,2026-03-16T16:03:00,resolved,Water accumulation reported on road,synthetic
+RG-000023,damaged_road,3,13.075636,77.473197,2026-03-25T16:52:00,verified,Road surface is damaged,synthetic
+RG-000024,missing_sign,6,12.91572,77.73973,2026-09-07T07:51:00,verified,Important road sign is missing,synthetic
+RG-000025,pothole,5,12.997061,77.705664,2026-03-18T01:56:00,in_progress,Large pothole reported on the road,synthetic
+RG-000026,broken_streetlight,6,12.964273,77.57351,2026-01-09T02:31:00,verified,Streetlight is not functioning,synthetic
+RG-000027,flooding,8,12.985229,77.506032,2026-06-26T20:07:00,reported,Water accumulation reported on road,synthetic
+RG-000028,missing_sign,2,12.922637,77.586928,2026-07-19T11:08:00,in_progress,Important road sign is missing,synthetic
+RG-000029,damaged_road,7,13.057609,77.621024,2026-04-02T10:07:00,in_progress,Road surface is damaged,synthetic
+RG-000030,pothole,3,13.062684,77.581708,2026-07-28T20:21:00,verified,Large pothole reported on the road,synthetic
+RG-000031,flooding,8,12.915525,77.50925,2026-01-12T20:15:00,resolved,Water accumulation reported on road,synthetic
+RG-000032,broken_streetlight,7,12.953367,77.701792,2026-03-07T15:47:00,resolved,Streetlight is not functioning,synthetic
+RG-000033,pothole,1,12.86845,77.482145,2026-05-21T03:40:00,reported,Large pothole reported on the road,synthetic
+RG-000034,accident,3,13.065854,77.549142,2026-01-16T03:50:00,in_progress,Road accident reported,synthetic
+RG-000035,damaged_road,4,12.982286,77.663812,2026-01-06T04:18:00,resolved,Road surface is damaged,synthetic
+RG-000036,damaged_road,2,12.896578,77.645528,2026-07-27T02:51:00,resolved,Road surface is damaged,synthetic
+RG-000037,broken_streetlight,2,12.967721,77.690444,2026-02-15T11:58:00,resolved,Streetlight is not functioning,synthetic
+RG-000038,damaged_road,1,12.997537,77.676286,2026-06-28T23:05:00,verified,Road surface is damaged,synthetic
+RG-000039,damaged_road,7,13.00852,77.641864,2026-07-23T23:05:00,verified,Road surface is damaged,synthetic
+RG-000040,missing_sign,9,12.900327,77.591833,2026-02-24T07:13:00,reported,Important road sign is missing,synthetic
+RG-000041,missing_sign,9,12.99453,77.691065,2026-02-11T01:05:00,in_progress,Important road sign is missing,synthetic
+RG-000042,pothole,8,12.875673,77.557436,2026-04-09T13:05:00,in_progress,Large pothole reported on the road,synthetic
+RG-000043,missing_sign,1,12.884669,77.477175,2026-03-17T01:43:00,in_progress,Important road sign is missing,synthetic
+RG-000044,missing_sign,10,12.934443,77.528617,2026-05-22T02:52:00,reported,Important road sign is missing,synthetic
+RG-000045,damaged_road,10,13.050369,77.466085,2026-05-18T11:07:00,verified,Road surface is damaged,synthetic
+RG-000046,pothole,10,13.011044,77.738408,2026-08-07T21:54:00,resolved,Large pothole reported on the road,synthetic
+RG-000047,broken_streetlight,3,13.057412,77.671263,2026-01-29T07:08:00,verified,Streetlight is not functioning,synthetic
+RG-000048,missing_sign,4,13.050817,77.525654,2026-08-22T18:02:00,in_progress,Important road sign is missing,synthetic
+RG-000049,pothole,2,12.952768,77.479652,2026-08-07T15:32:00,reported,Large pothole reported on the road,synthetic
+RG-000050,flooding,2,13.070978,77.537079,2026-06-05T07:28:00,in_progress,Water accumulation reported on road,synthetic
+RG-000051,accident,1,13.04246,77.730334,2026-09-07T01:05:00,verified,Road accident reported,synthetic
+RG-000052,pothole,9,13.056733,77.696204,2026-05-22T09:48:00,verified,Large pothole reported on the road,synthetic
+RG-000053,pothole,2,13.011912,77.713086,2026-03-26T18:08:00,verified,Large pothole reported on the road,synthetic
+RG-000054,missing_sign,3,12.868033,77.594816,2026-02-05T17:41:00,resolved,Important road sign is missing,synthetic
+RG-000055,broken_streetlight,5,12.999636,77.457409,2026-07-04T02:16:00,reported,Streetlight is not functioning,synthetic
+RG-000056,pothole,5,13.060594,77.671989,2026-03-27T01:32:00,verified,Large pothole reported on the road,synthetic
+RG-000057,flooding,6,12.850237,77.613458,2026-08-24T19:53:00,resolved,Water accumulation reported on road,synthetic
+RG-000058,damaged_road,9,12.972833,77.493519,2026-09-05T04:03:00,verified,Road surface is damaged,synthetic
+RG-000059,flooding,8,12.876578,77.505454,2026-07-14T16:23:00,resolved,Water accumulation reported on road,synthetic
+RG-000060,accident,4,12.939276,77.745943,2026-05-21T02:19:00,verified,Road accident reported,synthetic
+RG-000061,broken_streetlight,9,12.956383,77.719656,2026-04-10T14:15:00,in_progress,Streetlight is not functioning,synthetic
+RG-000062,accident,3,12.9433,77.740763,2026-08-22T12:38:00,verified,Road accident reported,synthetic
+RG-000063,broken_streetlight,10,12.96831,77.452898,2026-02-11T20:52:00,verified,Streetlight is not functioning,synthetic
+RG-000064,flooding,7,13.058249,77.672178,2026-03-21T19:03:00,verified,Water accumulation reported on road,synthetic
+RG-000065,broken_streetlight,6,12.916997,77.585977,2026-05-16T09:37:00,verified,Streetlight is not functioning,synthetic
+RG-000066,damaged_road,1,12.867273,77.596765,2026-07-20T02:17:00,verified,Road surface is damaged,synthetic
+RG-000067,flooding,5,12.972358,77.641512,2026-03-27T06:31:00,resolved,Water accumulation reported on road,synthetic
+RG-000068,damaged_road,4,12.912099,77.581837,2026-08-28T11:20:00,reported,Road surface is damaged,synthetic
+RG-000069,damaged_road,2,13.033784,77.745858,2026-07-08T18:17:00,verified,Road surface is damaged,synthetic
+RG-000070,damaged_road,6,13.020079,77.455999,2026-06-29T13:21:00,verified,Road surface is damaged,synthetic
+RG-000071,missing_sign,5,12.914249,77.49114,2026-01-26T20:07:00,in_progress,Important road sign is missing,synthetic
+RG-000072,damaged_road,8,12.961161,77.675884,2026-04-19T05:01:00,in_progress,Road surface is damaged,synthetic
+RG-000073,flooding,6,13.054489,77.740239,2026-09-05T04:02:00,verified,Water accumulation reported on road,synthetic
+RG-000074,flooding,8,12.880242,77.738288,2026-01-28T03:54:00,verified,Water accumulation reported on road,synthetic
+RG-000075,flooding,4,12.87058,77.645965,2026-06-04T21:27:00,in_progress,Water accumulation reported on road,synthetic
+RG-000076,accident,6,12.913508,77.574954,2026-09-03T01:50:00,resolved,Road accident reported,synthetic
+RG-000077,accident,2,12.959738,77.679569,2026-02-13T02:19:00,resolved,Road accident reported,synthetic
+RG-000078,missing_sign,8,12.877728,77.648057,2026-03-16T14:19:00,resolved,Important road sign is missing,synthetic
+RG-000079,flooding,4,13.001021,77.591766,2026-01-03T13:39:00,reported,Water accumulation reported on road,synthetic
+RG-000080,broken_streetlight,3,12.959213,77.669515,2026-06-09T22:07:00,resolved,Streetlight is not functioning,synthetic
+RG-000081,accident,4,12.877787,77.487988,2026-04-01T00:32:00,reported,Road accident reported,synthetic
+RG-000082,flooding,6,12.963495,77.499202,2026-05-30T01:18:00,verified,Water accumulation reported on road,synthetic
+RG-000083,missing_sign,7,12.948395,77.496884,2026-09-06T22:09:00,in_progress,Important road sign is missing,synthetic
+RG-000084,flooding,8,12.934148,77.485351,2026-01-20T08:35:00,reported,Water accumulation reported on road,synthetic
+RG-000085,damaged_road,9,12.901398,77.733037,2026-06-03T14:21:00,reported,Road surface is damaged,synthetic
+RG-000086,damaged_road,4,12.853848,77.584959,2026-07-27T07:29:00,reported,Road surface is damaged,synthetic
+RG-000087,broken_streetlight,3,12.977022,77.473655,2026-04-25T23:35:00,in_progress,Streetlight is not functioning,synthetic
+RG-000088,missing_sign,5,12.995419,77.679561,2026-06-16T04:04:00,verified,Important road sign is missing,synthetic
+RG-000089,damaged_road,3,12.905227,77.706264,2026-06-04T17:32:00,verified,Road surface is damaged,synthetic
+RG-000090,pothole,9,13.047092,77.563145,2026-04-05T02:32:00,resolved,Large pothole reported on the road,synthetic
+RG-000091,flooding,8,12.896022,77.564383,2026-05-28T21:21:00,resolved,Water accumulation reported on road,synthetic
+RG-000092,missing_sign,8,13.062447,77.638575,2026-07-30T00:10:00,resolved,Important road sign is missing,synthetic
+RG-000093,broken_streetlight,3,13.093984,77.509934,2026-07-02T12:24:00,resolved,Streetlight is not functioning,synthetic
+RG-000094,accident,7,13.074086,77.584181,2026-08-21T12:39:00,resolved,Road accident reported,synthetic
+RG-000095,broken_streetlight,8,12.932057,77.645579,2026-05-25T10:50:00,in_progress,Streetlight is not functioning,synthetic
+RG-000096,damaged_road,4,12.884601,77.655878,2026-02-19T13:59:00,reported,Road surface is damaged,synthetic
+RG-000097,missing_sign,1,13.04128,77.55909,2026-05-31T11:46:00,verified,Important road sign is missing,synthetic
+RG-000098,damaged_road,9,13.019866,77.610355,2026-09-08T06:13:00,in_progress,Road surface is damaged,synthetic
+RG-000099,broken_streetlight,7,12.981984,77.738697,2026-03-29T02:40:00,resolved,Streetlight is not functioning,synthetic
+RG-000100,flooding,4,13.0244,77.64154,2026-03-18T17:44:00,resolved,Water accumulation reported on road,synthetic
+RG-000101,damaged_road,9,12.956315,77.51708,2026-08-01T12:15:00,reported,Road surface is damaged,synthetic
+RG-000102,damaged_road,8,13.051033,77.458375,2026-09-05T05:44:00,verified,Road surface is damaged,synthetic
+RG-000103,accident,10,12.983858,77.591643,2026-05-05T19:57:00,reported,Road accident reported,synthetic
+RG-000104,accident,3,12.982543,77.521285,2026-01-23T21:09:00,reported,Road accident reported,synthetic
+RG-000105,damaged_road,4,12.977667,77.566479,2026-02-02T15:00:00,verified,Road surface is damaged,synthetic
+RG-000106,missing_sign,3,12.902129,77.671418,2026-07-12T11:29:00,resolved,Important road sign is missing,synthetic
+RG-000107,damaged_road,1,13.049464,77.538248,2026-05-31T17:07:00,in_progress,Road surface is damaged,synthetic
+RG-000108,flooding,4,12.961326,77.557633,2026-08-06T05:22:00,verified,Water accumulation reported on road,synthetic
+RG-000109,flooding,3,12.966089,77.64199,2026-07-27T10:47:00,resolved,Water accumulation reported on road,synthetic
+RG-000110,accident,1,12.91968,77.556718,2026-06-29T02:46:00,verified,Road accident reported,synthetic
+RG-000111,damaged_road,5,12.928413,77.706449,2026-08-28T12:57:00,in_progress,Road surface is damaged,synthetic
+RG-000112,accident,3,12.882033,77.545554,2026-05-23T21:06:00,reported,Road accident reported,synthetic
+RG-000113,pothole,4,13.017121,77.689209,2026-01-14T10:48:00,resolved,Large pothole reported on the road,synthetic
+RG-000114,flooding,6,13.038569,77.551949,2026-06-08T01:00:00,in_progress,Water accumulation reported on road,synthetic
+RG-000115,damaged_road,3,13.082749,77.670484,2026-07-23T08:09:00,resolved,Road surface is damaged,synthetic
+RG-000116,missing_sign,9,13.056682,77.698804,2026-01-23T18:40:00,in_progress,Important road sign is missing,synthetic
+RG-000117,pothole,4,12.914006,77.498921,2026-05-31T15:43:00,in_progress,Large pothole reported on the road,synthetic
+RG-000118,broken_streetlight,10,12.96268,77.522254,2026-01-11T03:34:00,in_progress,Streetlight is not functioning,synthetic
+RG-000119,damaged_road,1,12.863788,77.711622,2026-05-30T21:17:00,verified,Road surface is damaged,synthetic
+RG-000120,pothole,9,13.087367,77.605241,2026-07-18T01:04:00,reported,Large pothole reported on the road,synthetic
+RG-000121,accident,3,13.087416,77.543431,2026-06-19T08:51:00,in_progress,Road accident reported,synthetic
+RG-000122,flooding,6,12.917169,77.534208,2026-02-06T07:09:00,verified,Water accumulation reported on road,synthetic
+RG-000123,pothole,3,13.070102,77.739451,2026-02-17T14:56:00,verified,Large pothole reported on the road,synthetic
+RG-000124,damaged_road,1,13.062008,77.66308,2026-07-05T17:45:00,verified,Road surface is damaged,synthetic
+RG-000125,missing_sign,5,12.968661,77.590202,2026-05-02T22:12:00,reported,Important road sign is missing,synthetic
+RG-000126,damaged_road,4,13.00066,77.478082,2026-06-19T02:04:00,verified,Road surface is damaged,synthetic
+RG-000127,pothole,1,12.871536,77.648011,2026-08-20T00:27:00,in_progress,Large pothole reported on the road,synthetic
+RG-000128,pothole,9,13.061447,77.61484,2026-06-02T10:43:00,resolved,Large pothole reported on the road,synthetic
+RG-000129,broken_streetlight,6,12.996651,77.62748,2026-08-05T21:56:00,verified,Streetlight is not functioning,synthetic
+RG-000130,pothole,8,12.861294,77.514831,2026-07-02T18:27:00,in_progress,Large pothole reported on the road,synthetic
+RG-000131,damaged_road,3,12.944462,77.668137,2026-05-19T03:39:00,reported,Road surface is damaged,synthetic
+RG-000132,damaged_road,2,13.0374,77.652771,2026-08-31T14:36:00,reported,Road surface is damaged,synthetic
+RG-000133,flooding,5,12.907887,77.46287,2026-07-25T10:51:00,reported,Water accumulation reported on road,synthetic
+RG-000134,pothole,4,12.931309,77.736089,2026-01-08T21:57:00,resolved,Large pothole reported on the road,synthetic
+RG-000135,broken_streetlight,2,13.013819,77.63134,2026-08-14T15:11:00,resolved,Streetlight is not functioning,synthetic
+RG-000136,damaged_road,7,13.001522,77.616133,2026-08-30T07:55:00,resolved,Road surface is damaged,synthetic
+RG-000137,accident,6,13.026104,77.638657,2026-06-13T03:10:00,reported,Road accident reported,synthetic
+RG-000138,missing_sign,9,12.966162,77.471168,2026-02-23T00:14:00,in_progress,Important road sign is missing,synthetic
+RG-000139,missing_sign,10,12.912625,77.718763,2026-08-03T14:55:00,verified,Important road sign is missing,synthetic
+RG-000140,damaged_road,10,12.898811,77.64572,2026-02-03T05:33:00,verified,Road surface is damaged,synthetic
+RG-000141,flooding,10,13.09244,77.62789,2026-07-18T09:04:00,verified,Water accumulation reported on road,synthetic
+RG-000142,damaged_road,5,13.076171,77.650821,2026-02-16T03:44:00,verified,Road surface is damaged,synthetic
+RG-000143,damaged_road,1,12.934974,77.478889,2026-04-29T14:22:00,verified,Road surface is damaged,synthetic
+RG-000144,pothole,4,12.900062,77.722489,2026-07-03T07:13:00,resolved,Large pothole reported on the road,synthetic
+RG-000145,missing_sign,2,12.964943,77.717881,2026-04-27T01:45:00,verified,Important road sign is missing,synthetic
+RG-000146,damaged_road,1,13.094095,77.700548,2026-02-07T14:56:00,verified,Road surface is damaged,synthetic
+RG-000147,broken_streetlight,7,13.022176,77.574709,2026-05-19T03:03:00,reported,Streetlight is not functioning,synthetic
+RG-000148,pothole,7,12.929865,77.577573,2026-04-18T11:08:00,resolved,Large pothole reported on the road,synthetic
+RG-000149,missing_sign,3,12.919389,77.67191,2026-04-23T21:23:00,in_progress,Important road sign is missing,synthetic
+RG-000150,damaged_road,5,12.998002,77.65902,2026-02-18T09:21:00,resolved,Road surface is damaged,synthetic
+RG-000151,missing_sign,1,12.863772,77.656306,2026-01-05T18:30:00,reported,Important road sign is missing,synthetic
+RG-000152,accident,1,12.985476,77.711982,2026-05-31T08:45:00,resolved,Road accident reported,synthetic
+RG-000153,accident,6,13.046518,77.603821,2026-08-11T06:08:00,verified,Road accident reported,synthetic
+RG-000154,broken_streetlight,8,13.070386,77.469707,2026-03-25T06:24:00,verified,Streetlight is not functioning,synthetic
+RG-000155,damaged_road,8,12.947345,77.626615,2026-08-25T04:25:00,in_progress,Road surface is damaged,synthetic
+RG-000156,broken_streetlight,8,12.970372,77.680456,2026-04-26T13:51:00,verified,Streetlight is not functioning,synthetic
+RG-000157,pothole,8,12.955786,77.682869,2026-05-23T16:15:00,in_progress,Large pothole reported on the road,synthetic
+RG-000158,missing_sign,2,12.878481,77.464868,2026-06-02T04:55:00,in_progress,Important road sign is missing,synthetic
+RG-000159,damaged_road,4,13.09047,77.744882,2026-01-07T03:01:00,resolved,Road surface is damaged,synthetic
+RG-000160,accident,9,12.937081,77.680053,2026-06-17T09:26:00,verified,Road accident reported,synthetic
+RG-000161,broken_streetlight,6,12.902542,77.626821,2026-06-28T06:30:00,verified,Streetlight is not functioning,synthetic
+RG-000162,pothole,8,12.964322,77.747361,2026-07-30T05:54:00,resolved,Large pothole reported on the road,synthetic
+RG-000163,missing_sign,2,12.899817,77.464181,2026-08-31T02:57:00,in_progress,Important road sign is missing,synthetic
+RG-000164,pothole,1,12.884435,77.734068,2026-08-30T15:36:00,reported,Large pothole reported on the road,synthetic
+RG-000165,pothole,5,12.890324,77.58395,2026-02-15T22:52:00,reported,Large pothole reported on the road,synthetic
+RG-000166,broken_streetlight,9,12.990818,77.680851,2026-03-13T17:00:00,verified,Streetlight is not functioning,synthetic
+RG-000167,accident,1,13.005469,77.741371,2026-08-18T09:53:00,reported,Road accident reported,synthetic
+RG-000168,broken_streetlight,2,13.031985,77.479875,2026-08-26T00:59:00,verified,Streetlight is not functioning,synthetic
+RG-000169,broken_streetlight,7,13.030366,77.707572,2026-01-29T05:14:00,verified,Streetlight is not functioning,synthetic
+RG-000170,accident,10,13.031226,77.469973,2026-04-05T11:08:00,verified,Road accident reported,synthetic
+RG-000171,missing_sign,9,12.878382,77.503219,2026-02-22T17:16:00,resolved,Important road sign is missing,synthetic
+RG-000172,missing_sign,1,13.002104,77.484622,2026-02-10T15:17:00,reported,Important road sign is missing,synthetic
+RG-000173,broken_streetlight,10,13.094622,77.587086,2026-02-09T01:29:00,resolved,Streetlight is not functioning,synthetic
+RG-000174,broken_streetlight,2,13.034308,77.535936,2026-04-07T07:14:00,verified,Streetlight is not functioning,synthetic
+RG-000175,accident,9,13.0053,77.681132,2026-08-16T07:48:00,reported,Road accident reported,synthetic
+RG-000176,accident,8,12.964696,77.558402,2026-03-12T09:44:00,resolved,Road accident reported,synthetic
+RG-000177,broken_streetlight,6,12.995507,77.601066,2026-07-12T01:38:00,resolved,Streetlight is not functioning,synthetic
+RG-000178,accident,5,12.863679,77.526707,2026-01-14T06:12:00,in_progress,Road accident reported,synthetic
+RG-000179,flooding,5,12.862991,77.523168,2026-01-11T09:35:00,verified,Water accumulation reported on road,synthetic
+RG-000180,damaged_road,7,13.005694,77.536562,2026-08-14T19:25:00,in_progress,Road surface is damaged,synthetic
+RG-000181,flooding,2,12.865746,77.611266,2026-06-25T11:31:00,verified,Water accumulation reported on road,synthetic
+RG-000182,missing_sign,4,13.087254,77.522179,2026-02-09T19:36:00,reported,Important road sign is missing,synthetic
+RG-000183,missing_sign,4,12.916986,77.60634,2026-08-02T21:31:00,verified,Important road sign is missing,synthetic
+RG-000184,pothole,9,13.017087,77.666716,2026-09-01T13:55:00,in_progress,Large pothole reported on the road,synthetic
+RG-000185,missing_sign,10,13.044967,77.48112,2026-08-25T17:51:00,resolved,Important road sign is missing,synthetic
+RG-000186,accident,10,12.967525,77.678761,2026-03-21T11:42:00,reported,Road accident reported,synthetic
+RG-000187,broken_streetlight,3,13.03474,77.558828,2026-01-14T17:52:00,verified,Streetlight is not functioning,synthetic
+RG-000188,missing_sign,9,12.888697,77.722908,2026-02-11T04:26:00,reported,Important road sign is missing,synthetic
+RG-000189,pothole,2,12.880983,77.534905,2026-04-06T01:18:00,in_progress,Large pothole reported on the road,synthetic
+RG-000190,pothole,9,12.869737,77.572876,2026-09-01T07:58:00,reported,Large pothole reported on the road,synthetic
+RG-000191,damaged_road,7,13.083469,77.715511,2026-02-08T09:52:00,verified,Road surface is damaged,synthetic
+RG-000192,accident,1,12.913882,77.62701,2026-06-19T21:00:00,reported,Road accident reported,synthetic
+RG-000193,pothole,3,12.91042,77.666862,2026-03-08T00:07:00,verified,Large pothole reported on the road,synthetic
+RG-000194,accident,7,12.989349,77.732298,2026-06-12T14:16:00,in_progress,Road accident reported,synthetic
+RG-000195,accident,2,12.867801,77.520463,2026-08-21T09:31:00,resolved,Road accident reported,synthetic
+RG-000196,damaged_road,5,12.851236,77.606961,2026-05-20T02:14:00,in_progress,Road surface is damaged,synthetic
+RG-000197,damaged_road,9,12.85051,77.592641,2026-08-26T12:30:00,reported,Road surface is damaged,synthetic
+RG-000198,missing_sign,5,12.890001,77.581342,2026-06-21T11:27:00,in_progress,Important road sign is missing,synthetic
+RG-000199,missing_sign,10,12.859532,77.692961,2026-05-29T02:05:00,in_progress,Important road sign is missing,synthetic
+RG-000200,flooding,3,12.893535,77.608722,2026-03-20T03:05:00,reported,Water accumulation reported on road,synthetic
+RG-000201,pothole,6,12.882671,77.547156,2026-06-13T03:54:00,in_progress,Large pothole reported on the road,synthetic
+RG-000202,damaged_road,1,12.913643,77.69983,2026-03-20T04:08:00,in_progress,Road surface is damaged,synthetic
+RG-000203,pothole,6,12.933509,77.739283,2026-02-15T19:56:00,reported,Large pothole reported on the road,synthetic
+RG-000204,damaged_road,7,13.025485,77.580836,2026-05-30T07:49:00,reported,Road surface is damaged,synthetic
+RG-000205,pothole,6,13.056855,77.622914,2026-04-08T16:01:00,resolved,Large pothole reported on the road,synthetic
+RG-000206,flooding,7,12.94462,77.583784,2026-01-15T09:46:00,verified,Water accumulation reported on road,synthetic
+RG-000207,accident,1,12.96981,77.626897,2026-02-16T17:28:00,resolved,Road accident reported,synthetic
+RG-000208,pothole,1,12.983875,77.549874,2026-04-11T00:28:00,verified,Large pothole reported on the road,synthetic
+RG-000209,broken_streetlight,4,12.981595,77.736931,2026-02-22T19:39:00,in_progress,Streetlight is not functioning,synthetic
+RG-000210,pothole,2,13.028801,77.657282,2026-05-24T02:57:00,in_progress,Large pothole reported on the road,synthetic
+RG-000211,missing_sign,4,12.869888,77.535392,2026-07-26T20:04:00,resolved,Important road sign is missing,synthetic
+RG-000212,broken_streetlight,10,12.973745,77.496453,2026-04-10T12:48:00,verified,Streetlight is not functioning,synthetic
+RG-000213,flooding,1,12.978293,77.467602,2026-05-26T16:07:00,reported,Water accumulation reported on road,synthetic
+RG-000214,missing_sign,7,13.023671,77.563975,2026-08-22T13:38:00,in_progress,Important road sign is missing,synthetic
+RG-000215,flooding,5,12.940656,77.667706,2026-06-18T23:27:00,reported,Water accumulation reported on road,synthetic
+RG-000216,flooding,7,12.994578,77.47082,2026-07-14T08:00:00,in_progress,Water accumulation reported on road,synthetic
+RG-000217,broken_streetlight,10,12.947742,77.477878,2026-08-19T20:25:00,resolved,Streetlight is not functioning,synthetic
+RG-000218,flooding,8,12.938315,77.496634,2026-07-23T20:25:00,reported,Water accumulation reported on road,synthetic
+RG-000219,pothole,2,12.902098,77.676033,2026-04-18T19:40:00,in_progress,Large pothole reported on the road,synthetic
+RG-000220,damaged_road,8,13.021245,77.515999,2026-07-01T13:41:00,verified,Road surface is damaged,synthetic
+RG-000221,damaged_road,1,12.856568,77.576157,2026-07-18T00:56:00,verified,Road surface is damaged,synthetic
+RG-000222,pothole,6,13.061989,77.749078,2026-05-10T19:43:00,resolved,Large pothole reported on the road,synthetic
+RG-000223,damaged_road,5,12.904378,77.532825,2026-01-26T01:31:00,verified,Road surface is damaged,synthetic
+RG-000224,accident,8,13.074588,77.613952,2026-08-10T19:35:00,resolved,Road accident reported,synthetic
+RG-000225,accident,9,12.98916,77.72711,2026-07-01T11:56:00,verified,Road accident reported,synthetic
+RG-000226,accident,4,13.057499,77.572572,2026-03-28T00:03:00,verified,Road accident reported,synthetic
+RG-000227,accident,3,12.950734,77.624774,2026-06-29T05:40:00,verified,Road accident reported,synthetic
+RG-000228,broken_streetlight,4,12.977136,77.69627,2026-03-27T05:39:00,verified,Streetlight is not functioning,synthetic
+RG-000229,damaged_road,6,13.049097,77.475706,2026-03-31T04:16:00,reported,Road surface is damaged,synthetic
+RG-000230,broken_streetlight,5,12.974571,77.685207,2026-01-09T22:26:00,resolved,Streetlight is not functioning,synthetic
+RG-000231,damaged_road,1,13.031703,77.571199,2026-03-18T09:13:00,verified,Road surface is damaged,synthetic
+RG-000232,accident,7,12.998971,77.655959,2026-04-09T00:52:00,resolved,Road accident reported,synthetic
+RG-000233,flooding,1,12.942055,77.643178,2026-05-06T23:34:00,reported,Water accumulation reported on road,synthetic
+RG-000234,missing_sign,4,13.010631,77.470236,2026-03-01T15:06:00,resolved,Important road sign is missing,synthetic
+RG-000235,pothole,6,13.04508,77.529018,2026-08-11T04:36:00,reported,Large pothole reported on the road,synthetic
+RG-000236,accident,8,12.886684,77.630276,2026-08-10T10:30:00,resolved,Road accident reported,synthetic
+RG-000237,broken_streetlight,7,13.036689,77.562232,2026-04-16T12:03:00,in_progress,Streetlight is not functioning,synthetic
+RG-000238,broken_streetlight,5,12.963907,77.552261,2026-08-10T17:50:00,reported,Streetlight is not functioning,synthetic
+RG-000239,broken_streetlight,10,12.961258,77.450192,2026-06-06T08:43:00,in_progress,Streetlight is not functioning,synthetic
+RG-000240,accident,3,12.91745,77.690098,2026-03-17T21:02:00,resolved,Road accident reported,synthetic
+RG-000241,accident,8,13.019553,77.505423,2026-06-30T22:40:00,verified,Road accident reported,synthetic
+RG-000242,damaged_road,4,13.009342,77.538575,2026-07-03T18:27:00,verified,Road surface is damaged,synthetic
+RG-000243,pothole,10,13.079431,77.56021,2026-07-12T16:27:00,verified,Large pothole reported on the road,synthetic
+RG-000244,pothole,3,13.023964,77.727858,2026-08-24T13:03:00,resolved,Large pothole reported on the road,synthetic
+RG-000245,accident,3,13.016758,77.509991,2026-04-21T10:29:00,reported,Road accident reported,synthetic
+RG-000246,flooding,6,12.892683,77.600889,2026-05-21T15:49:00,in_progress,Water accumulation reported on road,synthetic
+RG-000247,damaged_road,5,12.870804,77.500314,2026-08-02T05:45:00,in_progress,Road surface is damaged,synthetic
+RG-000248,accident,9,13.016186,77.625207,2026-09-05T23:12:00,resolved,Road accident reported,synthetic
+RG-000249,broken_streetlight,6,13.004277,77.459208,2026-03-23T17:56:00,verified,Streetlight is not functioning,synthetic
+RG-000250,accident,3,13.068654,77.559988,2026-03-05T11:58:00,verified,Road accident reported,synthetic
+RG-000251,broken_streetlight,7,12.960035,77.575725,2026-03-14T08:42:00,in_progress,Streetlight is not functioning,synthetic
+RG-000252,damaged_road,10,13.020979,77.6508,2026-02-07T22:39:00,verified,Road surface is damaged,synthetic
+RG-000253,missing_sign,8,13.040685,77.682886,2026-07-18T22:54:00,resolved,Important road sign is missing,synthetic
+RG-000254,damaged_road,9,12.98948,77.698172,2026-01-27T23:26:00,in_progress,Road surface is damaged,synthetic
+RG-000255,broken_streetlight,6,13.012122,77.673286,2026-06-23T19:57:00,resolved,Streetlight is not functioning,synthetic
+RG-000256,broken_streetlight,10,12.950356,77.534507,2026-06-20T17:30:00,verified,Streetlight is not functioning,synthetic
+RG-000257,pothole,5,13.038168,77.714294,2026-05-30T01:00:00,resolved,Large pothole reported on the road,synthetic
+RG-000258,missing_sign,8,12.855269,77.610618,2026-07-11T14:57:00,reported,Important road sign is missing,synthetic
+RG-000259,flooding,3,12.923392,77.702122,2026-08-21T00:23:00,reported,Water accumulation reported on road,synthetic
+RG-000260,pothole,3,12.874853,77.69354,2026-04-11T08:00:00,resolved,Large pothole reported on the road,synthetic
+RG-000261,pothole,7,12.86306,77.657597,2026-06-10T07:34:00,resolved,Large pothole reported on the road,synthetic
+RG-000262,flooding,7,12.946382,77.63479,2026-02-13T03:13:00,verified,Water accumulation reported on road,synthetic
+RG-000263,accident,10,13.013787,77.610455,2026-06-12T05:23:00,verified,Road accident reported,synthetic
+RG-000264,damaged_road,1,12.859287,77.546218,2026-07-24T08:43:00,reported,Road surface is damaged,synthetic
+RG-000265,flooding,5,12.962256,77.475752,2026-03-21T01:40:00,reported,Water accumulation reported on road,synthetic
+RG-000266,broken_streetlight,6,12.891403,77.725975,2026-06-11T17:44:00,reported,Streetlight is not functioning,synthetic
+RG-000267,damaged_road,8,13.037281,77.663837,2026-01-23T18:06:00,resolved,Road surface is damaged,synthetic
+RG-000268,missing_sign,9,12.929191,77.683821,2026-01-06T21:16:00,in_progress,Important road sign is missing,synthetic
+RG-000269,missing_sign,7,12.924102,77.540636,2026-09-03T10:48:00,resolved,Important road sign is missing,synthetic
+RG-000270,accident,9,13.08807,77.576295,2026-08-05T09:44:00,verified,Road accident reported,synthetic
+RG-000271,flooding,5,12.867114,77.589067,2026-06-05T05:34:00,verified,Water accumulation reported on road,synthetic
+RG-000272,broken_streetlight,5,13.059528,77.50456,2026-06-03T09:19:00,in_progress,Streetlight is not functioning,synthetic
+RG-000273,accident,5,12.971867,77.482548,2026-02-01T07:30:00,in_progress,Road accident reported,synthetic
+RG-000274,broken_streetlight,4,12.854251,77.703241,2026-01-22T19:50:00,reported,Streetlight is not functioning,synthetic
+RG-000275,pothole,8,12.869594,77.570646,2026-03-24T14:04:00,reported,Large pothole reported on the road,synthetic
+RG-000276,damaged_road,2,12.936379,77.655052,2026-07-15T01:29:00,resolved,Road surface is damaged,synthetic
+RG-000277,accident,3,12.902242,77.713102,2026-07-15T20:38:00,resolved,Road accident reported,synthetic
+RG-000278,broken_streetlight,4,12.885768,77.625761,2026-02-09T13:59:00,in_progress,Streetlight is not functioning,synthetic
+RG-000279,damaged_road,1,13.086211,77.459524,2026-06-15T18:34:00,reported,Road surface is damaged,synthetic
+RG-000280,broken_streetlight,10,12.979324,77.700061,2026-04-16T00:31:00,verified,Streetlight is not functioning,synthetic
+RG-000281,flooding,7,12.896676,77.483737,2026-02-17T08:58:00,verified,Water accumulation reported on road,synthetic
+RG-000282,flooding,2,12.907738,77.530963,2026-02-04T17:05:00,resolved,Water accumulation reported on road,synthetic
+RG-000283,pothole,3,12.881816,77.665645,2026-07-08T05:37:00,verified,Large pothole reported on the road,synthetic
+RG-000284,broken_streetlight,1,13.094473,77.495887,2026-08-24T01:25:00,resolved,Streetlight is not functioning,synthetic
+RG-000285,accident,5,13.030977,77.728261,2026-07-10T07:12:00,verified,Road accident reported,synthetic
+RG-000286,pothole,1,12.917481,77.69966,2026-08-11T11:59:00,resolved,Large pothole reported on the road,synthetic
+RG-000287,pothole,1,12.922703,77.590867,2026-04-09T11:38:00,verified,Large pothole reported on the road,synthetic
+RG-000288,pothole,4,13.081914,77.748556,2026-06-29T05:35:00,reported,Large pothole reported on the road,synthetic
+RG-000289,damaged_road,6,13.06816,77.524719,2026-06-22T08:48:00,reported,Road surface is damaged,synthetic
+RG-000290,accident,2,12.978622,77.497571,2026-03-29T16:47:00,resolved,Road accident reported,synthetic
+RG-000291,accident,10,12.995801,77.736759,2026-02-08T09:15:00,resolved,Road accident reported,synthetic
+RG-000292,accident,6,13.04666,77.504001,2026-02-17T00:01:00,resolved,Road accident reported,synthetic
+RG-000293,pothole,1,12.875597,77.64084,2026-04-28T04:41:00,in_progress,Large pothole reported on the road,synthetic
+RG-000294,accident,1,13.018371,77.666306,2026-02-07T15:27:00,in_progress,Road accident reported,synthetic
+RG-000295,broken_streetlight,7,12.99921,77.651373,2026-08-17T16:38:00,reported,Streetlight is not functioning,synthetic
+RG-000296,damaged_road,10,13.062755,77.634815,2026-04-13T19:55:00,verified,Road surface is damaged,synthetic
+RG-000297,missing_sign,10,12.932735,77.659114,2026-03-03T21:37:00,in_progress,Important road sign is missing,synthetic
+RG-000298,pothole,4,12.902486,77.531362,2026-03-04T08:59:00,resolved,Large pothole reported on the road,synthetic
+RG-000299,broken_streetlight,10,12.919,77.70393,2026-01-17T22:38:00,reported,Streetlight is not functioning,synthetic
+RG-000300,damaged_road,5,12.957654,77.61132,2026-01-22T19:38:00,reported,Road surface is damaged,synthetic
+RG-000301,damaged_road,5,12.957316,77.694146,2026-01-10T17:41:00,reported,Road surface is damaged,synthetic
+RG-000302,damaged_road,2,13.050789,77.701225,2026-03-10T05:30:00,verified,Road surface is damaged,synthetic
+RG-000303,flooding,1,12.958035,77.556887,2026-02-25T10:46:00,resolved,Water accumulation reported on road,synthetic
+RG-000304,accident,1,13.067966,77.725967,2026-06-29T15:11:00,resolved,Road accident reported,synthetic
+RG-000305,missing_sign,7,13.057011,77.517535,2026-06-16T13:48:00,resolved,Important road sign is missing,synthetic
+RG-000306,flooding,3,12.887369,77.571627,2026-06-02T19:42:00,reported,Water accumulation reported on road,synthetic
+RG-000307,broken_streetlight,8,12.863161,77.655943,2026-03-30T15:56:00,reported,Streetlight is not functioning,synthetic
+RG-000308,broken_streetlight,3,12.862592,77.500998,2026-08-26T15:59:00,resolved,Streetlight is not functioning,synthetic
+RG-000309,accident,4,12.908199,77.634236,2026-04-07T10:54:00,in_progress,Road accident reported,synthetic
+RG-000310,broken_streetlight,6,12.947307,77.714432,2026-04-23T05:35:00,reported,Streetlight is not functioning,synthetic
+RG-000311,damaged_road,7,12.904341,77.547401,2026-01-24T11:10:00,resolved,Road surface is damaged,synthetic
+RG-000312,broken_streetlight,1,12.884671,77.654235,2026-01-17T02:33:00,verified,Streetlight is not functioning,synthetic
+RG-000313,flooding,1,12.865342,77.568279,2026-07-01T08:32:00,verified,Water accumulation reported on road,synthetic
+RG-000314,broken_streetlight,4,13.086801,77.714372,2026-08-02T17:15:00,reported,Streetlight is not functioning,synthetic
+RG-000315,flooding,3,12.97217,77.505574,2026-07-20T02:18:00,reported,Water accumulation reported on road,synthetic
+RG-000316,broken_streetlight,10,13.046536,77.655647,2026-01-26T05:55:00,reported,Streetlight is not functioning,synthetic
+RG-000317,pothole,6,12.927404,77.706029,2026-03-31T12:00:00,in_progress,Large pothole reported on the road,synthetic
+RG-000318,damaged_road,1,12.959907,77.537885,2026-06-15T19:49:00,reported,Road surface is damaged,synthetic
+RG-000319,broken_streetlight,10,12.998502,77.678204,2026-08-31T12:24:00,verified,Streetlight is not functioning,synthetic
+RG-000320,flooding,9,13.014695,77.61313,2026-02-04T00:52:00,verified,Water accumulation reported on road,synthetic
+RG-000321,damaged_road,8,13.019111,77.474778,2026-01-07T00:30:00,reported,Road surface is damaged,synthetic
+RG-000322,missing_sign,1,12.894464,77.600553,2026-01-16T01:42:00,resolved,Important road sign is missing,synthetic
+RG-000323,pothole,5,12.870774,77.550647,2026-01-08T21:59:00,reported,Large pothole reported on the road,synthetic
+RG-000324,accident,7,12.871012,77.513932,2026-03-19T22:04:00,in_progress,Road accident reported,synthetic
+RG-000325,pothole,1,12.987069,77.596668,2026-07-25T19:12:00,verified,Large pothole reported on the road,synthetic
+RG-000326,accident,6,12.952962,77.466483,2026-03-22T01:48:00,resolved,Road accident reported,synthetic
+RG-000327,broken_streetlight,8,13.072392,77.598461,2026-07-12T14:42:00,resolved,Streetlight is not functioning,synthetic
+RG-000328,damaged_road,3,12.924522,77.605094,2026-05-01T21:07:00,verified,Road surface is damaged,synthetic
+RG-000329,missing_sign,5,13.068947,77.703519,2026-06-01T16:10:00,resolved,Important road sign is missing,synthetic
+RG-000330,missing_sign,1,12.983697,77.505868,2026-07-14T14:43:00,in_progress,Important road sign is missing,synthetic
+RG-000331,broken_streetlight,9,13.070538,77.547426,2026-06-10T02:16:00,reported,Streetlight is not functioning,synthetic
+RG-000332,pothole,6,13.014432,77.614249,2026-01-30T17:19:00,verified,Large pothole reported on the road,synthetic
+RG-000333,pothole,1,13.061787,77.709188,2026-05-13T18:26:00,verified,Large pothole reported on the road,synthetic
+RG-000334,flooding,6,13.015741,77.52551,2026-04-27T07:54:00,verified,Water accumulation reported on road,synthetic
+RG-000335,flooding,5,12.970076,77.700233,2026-01-24T17:33:00,resolved,Water accumulation reported on road,synthetic
+RG-000336,flooding,4,12.885233,77.621211,2026-01-14T02:26:00,in_progress,Water accumulation reported on road,synthetic
+RG-000337,accident,7,12.961155,77.646371,2026-08-05T23:37:00,resolved,Road accident reported,synthetic
+RG-000338,damaged_road,5,12.924296,77.511622,2026-06-12T06:56:00,reported,Road surface is damaged,synthetic
+RG-000339,broken_streetlight,10,13.077219,77.626023,2026-06-24T20:01:00,reported,Streetlight is not functioning,synthetic
+RG-000340,missing_sign,7,13.056521,77.684997,2026-08-06T02:15:00,verified,Important road sign is missing,synthetic
+RG-000341,accident,4,13.032194,77.733832,2026-06-14T21:48:00,in_progress,Road accident reported,synthetic
+RG-000342,pothole,5,12.996337,77.657727,2026-03-05T22:23:00,verified,Large pothole reported on the road,synthetic
+RG-000343,flooding,10,12.975687,77.614827,2026-07-29T00:27:00,reported,Water accumulation reported on road,synthetic
+RG-000344,flooding,6,12.885026,77.579371,2026-05-27T08:52:00,resolved,Water accumulation reported on road,synthetic
+RG-000345,missing_sign,9,13.01021,77.66082,2026-02-26T17:31:00,in_progress,Important road sign is missing,synthetic
+RG-000346,accident,5,12.876844,77.633025,2026-03-29T09:46:00,reported,Road accident reported,synthetic
+RG-000347,missing_sign,1,13.089368,77.472825,2026-08-20T11:53:00,verified,Important road sign is missing,synthetic
+RG-000348,accident,6,12.922094,77.70032,2026-03-05T13:12:00,reported,Road accident reported,synthetic
+RG-000349,damaged_road,5,12.863331,77.648073,2026-06-14T01:41:00,verified,Road surface is damaged,synthetic
+RG-000350,accident,1,12.980768,77.510583,2026-04-16T10:42:00,reported,Road accident reported,synthetic
+RG-000351,flooding,1,13.044392,77.687508,2026-05-12T17:26:00,reported,Water accumulation reported on road,synthetic
+RG-000352,missing_sign,5,12.883366,77.513629,2026-03-25T22:23:00,reported,Important road sign is missing,synthetic
+RG-000353,flooding,8,12.908543,77.538079,2026-04-24T09:37:00,verified,Water accumulation reported on road,synthetic
+RG-000354,accident,7,13.054824,77.480952,2026-03-02T06:22:00,in_progress,Road accident reported,synthetic
+RG-000355,missing_sign,10,12.881993,77.68836,2026-03-12T05:50:00,reported,Important road sign is missing,synthetic
+RG-000356,missing_sign,8,12.95047,77.605782,2026-01-12T21:52:00,resolved,Important road sign is missing,synthetic
+RG-000357,accident,2,12.934984,77.525917,2026-08-14T19:38:00,in_progress,Road accident reported,synthetic
+RG-000358,damaged_road,2,13.034325,77.454908,2026-06-11T12:55:00,resolved,Road surface is damaged,synthetic
+RG-000359,pothole,7,13.015777,77.690683,2026-05-03T17:34:00,resolved,Large pothole reported on the road,synthetic
+RG-000360,missing_sign,5,13.068601,77.621297,2026-01-28T01:32:00,resolved,Important road sign is missing,synthetic
+RG-000361,missing_sign,1,13.078069,77.529766,2026-08-11T09:46:00,verified,Important road sign is missing,synthetic
+RG-000362,pothole,3,12.934621,77.596018,2026-07-11T02:31:00,in_progress,Large pothole reported on the road,synthetic
+RG-000363,accident,8,12.871829,77.479792,2026-01-04T14:45:00,reported,Road accident reported,synthetic
+RG-000364,flooding,2,13.067019,77.493762,2026-07-08T18:01:00,reported,Water accumulation reported on road,synthetic
+RG-000365,damaged_road,5,13.029705,77.504447,2026-01-18T00:43:00,reported,Road surface is damaged,synthetic
+RG-000366,accident,10,12.968164,77.572589,2026-08-21T13:56:00,resolved,Road accident reported,synthetic
+RG-000367,flooding,10,12.968761,77.682471,2026-01-29T12:08:00,resolved,Water accumulation reported on road,synthetic
+RG-000368,accident,1,13.09235,77.491967,2026-07-23T20:50:00,verified,Road accident reported,synthetic
+RG-000369,pothole,1,12.856911,77.637524,2026-03-30T04:14:00,verified,Large pothole reported on the road,synthetic
+RG-000370,damaged_road,7,13.022039,77.489654,2026-03-31T23:10:00,resolved,Road surface is damaged,synthetic
+RG-000371,accident,7,13.048424,77.74343,2026-02-13T14:38:00,in_progress,Road accident reported,synthetic
+RG-000372,missing_sign,4,12.860865,77.700064,2026-04-21T08:17:00,reported,Important road sign is missing,synthetic
+RG-000373,pothole,10,13.025542,77.473566,2026-04-27T04:22:00,reported,Large pothole reported on the road,synthetic
+RG-000374,broken_streetlight,7,12.982038,77.554789,2026-05-25T07:53:00,in_progress,Streetlight is not functioning,synthetic
+RG-000375,flooding,6,13.054104,77.486705,2026-07-06T03:33:00,in_progress,Water accumulation reported on road,synthetic
+RG-000376,broken_streetlight,7,12.975911,77.560208,2026-07-23T15:49:00,reported,Streetlight is not functioning,synthetic
+RG-000377,accident,2,12.919514,77.477886,2026-07-02T17:39:00,verified,Road accident reported,synthetic
+RG-000378,pothole,6,13.07466,77.465975,2026-03-08T02:48:00,verified,Large pothole reported on the road,synthetic
+RG-000379,flooding,1,13.020873,77.58163,2026-05-19T04:14:00,resolved,Water accumulation reported on road,synthetic
+RG-000380,broken_streetlight,8,12.967701,77.662218,2026-02-28T07:06:00,verified,Streetlight is not functioning,synthetic
+RG-000381,missing_sign,4,13.009895,77.569666,2026-06-27T12:15:00,reported,Important road sign is missing,synthetic
+RG-000382,missing_sign,7,13.023804,77.652349,2026-07-19T20:49:00,verified,Important road sign is missing,synthetic
+RG-000383,flooding,9,12.988608,77.650429,2026-05-12T13:08:00,reported,Water accumulation reported on road,synthetic
+RG-000384,accident,1,13.010778,77.521573,2026-06-12T02:03:00,in_progress,Road accident reported,synthetic
+RG-000385,accident,3,12.933985,77.639547,2026-03-15T06:46:00,reported,Road accident reported,synthetic
+RG-000386,flooding,4,12.908016,77.609527,2026-07-21T06:15:00,in_progress,Water accumulation reported on road,synthetic
+RG-000387,damaged_road,10,12.994505,77.455371,2026-08-04T07:32:00,verified,Road surface is damaged,synthetic
+RG-000388,flooding,8,12.873842,77.604094,2026-08-23T04:51:00,resolved,Water accumulation reported on road,synthetic
+RG-000389,accident,5,12.908858,77.460062,2026-06-13T22:48:00,resolved,Road accident reported,synthetic
+RG-000390,flooding,5,12.976648,77.450237,2026-01-06T07:03:00,in_progress,Water accumulation reported on road,synthetic
+RG-000391,missing_sign,9,13.072899,77.456314,2026-08-24T14:19:00,in_progress,Important road sign is missing,synthetic
+RG-000392,missing_sign,10,12.918105,77.49433,2026-08-02T14:36:00,in_progress,Important road sign is missing,synthetic
+RG-000393,flooding,4,12.95867,77.465671,2026-03-28T19:02:00,verified,Water accumulation reported on road,synthetic
+RG-000394,accident,1,12.967138,77.580191,2026-08-16T23:11:00,resolved,Road accident reported,synthetic
+RG-000395,damaged_road,7,12.953999,77.741952,2026-08-27T06:47:00,verified,Road surface is damaged,synthetic
+RG-000396,missing_sign,8,13.020321,77.743696,2026-02-20T10:54:00,reported,Important road sign is missing,synthetic
+RG-000397,damaged_road,3,12.98491,77.470872,2026-02-27T01:43:00,reported,Road surface is damaged,synthetic
+RG-000398,accident,8,13.090693,77.65849,2026-06-06T22:20:00,reported,Road accident reported,synthetic
+RG-000399,accident,8,13.088693,77.604925,2026-08-31T13:52:00,resolved,Road accident reported,synthetic
+RG-000400,pothole,9,12.918509,77.71228,2026-03-11T09:42:00,verified,Large pothole reported on the road,synthetic
+RG-000401,pothole,1,13.019465,77.50924,2026-03-16T04:11:00,in_progress,Large pothole reported on the road,synthetic
+RG-000402,accident,8,12.91288,77.580391,2026-01-24T09:15:00,reported,Road accident reported,synthetic
+RG-000403,pothole,3,12.960866,77.452888,2026-07-05T00:33:00,verified,Large pothole reported on the road,synthetic
+RG-000404,accident,6,12.897074,77.509796,2026-07-28T21:15:00,reported,Road accident reported,synthetic
+RG-000405,pothole,3,12.944474,77.529122,2026-06-20T07:03:00,verified,Large pothole reported on the road,synthetic
+RG-000406,missing_sign,9,12.867898,77.456323,2026-01-03T16:19:00,reported,Important road sign is missing,synthetic
+RG-000407,damaged_road,4,12.960222,77.664166,2026-06-06T04:43:00,resolved,Road surface is damaged,synthetic
+RG-000408,missing_sign,7,12.990806,77.474152,2026-03-27T01:27:00,reported,Important road sign is missing,synthetic
+RG-000409,accident,1,12.97982,77.461724,2026-08-31T10:13:00,in_progress,Road accident reported,synthetic
+RG-000410,missing_sign,3,13.081551,77.668069,2026-01-15T12:44:00,verified,Important road sign is missing,synthetic
+RG-000411,missing_sign,1,12.888265,77.607193,2026-08-01T10:43:00,in_progress,Important road sign is missing,synthetic
+RG-000412,accident,3,13.06834,77.503623,2026-03-09T10:13:00,resolved,Road accident reported,synthetic
+RG-000413,damaged_road,8,12.863885,77.452036,2026-03-07T10:05:00,verified,Road surface is damaged,synthetic
+RG-000414,flooding,9,13.099781,77.4897,2026-09-07T19:36:00,in_progress,Water accumulation reported on road,synthetic
+RG-000415,accident,2,13.095141,77.712636,2026-01-27T09:12:00,reported,Road accident reported,synthetic
+RG-000416,flooding,7,13.074323,77.491455,2026-01-14T22:07:00,in_progress,Water accumulation reported on road,synthetic
+RG-000417,flooding,8,13.039268,77.64418,2026-06-20T19:39:00,verified,Water accumulation reported on road,synthetic
+RG-000418,missing_sign,9,12.903226,77.679789,2026-01-30T05:43:00,resolved,Important road sign is missing,synthetic
+RG-000419,broken_streetlight,4,13.075462,77.565943,2026-03-31T23:22:00,in_progress,Streetlight is not functioning,synthetic
+RG-000420,damaged_road,8,13.083949,77.536706,2026-08-11T09:20:00,resolved,Road surface is damaged,synthetic
+RG-000421,pothole,7,13.031947,77.522625,2026-03-09T10:47:00,reported,Large pothole reported on the road,synthetic
+RG-000422,damaged_road,6,12.956512,77.621836,2026-01-09T06:55:00,verified,Road surface is damaged,synthetic
+RG-000423,pothole,7,12.969545,77.573808,2026-05-05T21:55:00,in_progress,Large pothole reported on the road,synthetic
+RG-000424,pothole,8,13.080701,77.549341,2026-03-02T18:53:00,verified,Large pothole reported on the road,synthetic
+RG-000425,flooding,5,12.94117,77.607501,2026-05-08T04:59:00,reported,Water accumulation reported on road,synthetic
+RG-000426,pothole,9,12.861207,77.514109,2026-05-24T09:50:00,reported,Large pothole reported on the road,synthetic
+RG-000427,accident,7,13.034856,77.58463,2026-04-17T21:50:00,verified,Road accident reported,synthetic
+RG-000428,missing_sign,2,12.893033,77.659402,2026-07-22T04:19:00,verified,Important road sign is missing,synthetic
+RG-000429,pothole,4,12.893592,77.670246,2026-08-21T23:59:00,reported,Large pothole reported on the road,synthetic
+RG-000430,flooding,2,12.980424,77.468207,2026-08-05T02:53:00,in_progress,Water accumulation reported on road,synthetic
+RG-000431,pothole,6,13.038193,77.591434,2026-01-30T18:52:00,reported,Large pothole reported on the road,synthetic
+RG-000432,flooding,3,13.060703,77.587961,2026-07-01T10:57:00,resolved,Water accumulation reported on road,synthetic
+RG-000433,accident,3,13.085262,77.61333,2026-02-24T06:32:00,reported,Road accident reported,synthetic
+RG-000434,broken_streetlight,6,12.982986,77.565528,2026-01-30T07:09:00,verified,Streetlight is not functioning,synthetic
+RG-000435,broken_streetlight,8,12.901628,77.708165,2026-07-22T13:28:00,in_progress,Streetlight is not functioning,synthetic
+RG-000436,broken_streetlight,9,12.869013,77.53921,2026-04-30T00:57:00,verified,Streetlight is not functioning,synthetic
+RG-000437,damaged_road,6,12.879917,77.674857,2026-04-11T16:40:00,in_progress,Road surface is damaged,synthetic
+RG-000438,missing_sign,1,12.931853,77.463915,2026-03-06T23:54:00,verified,Important road sign is missing,synthetic
+RG-000439,pothole,7,13.070606,77.46982,2026-08-26T08:22:00,verified,Large pothole reported on the road,synthetic
+RG-000440,accident,6,12.903663,77.684899,2026-06-29T07:39:00,reported,Road accident reported,synthetic
+RG-000441,missing_sign,3,12.982879,77.733122,2026-01-02T11:47:00,reported,Important road sign is missing,synthetic
+RG-000442,accident,2,12.874666,77.46212,2026-07-24T17:29:00,reported,Road accident reported,synthetic
+RG-000443,pothole,7,12.893915,77.71722,2026-01-20T20:17:00,resolved,Large pothole reported on the road,synthetic
+RG-000444,accident,7,13.020269,77.696231,2026-05-23T12:26:00,resolved,Road accident reported,synthetic
+RG-000445,accident,7,12.976203,77.52228,2026-07-17T03:59:00,verified,Road accident reported,synthetic
+RG-000446,missing_sign,5,13.093859,77.477863,2026-04-20T05:58:00,reported,Important road sign is missing,synthetic
+RG-000447,broken_streetlight,3,13.084435,77.688233,2026-08-29T08:51:00,resolved,Streetlight is not functioning,synthetic
+RG-000448,flooding,10,12.89091,77.554069,2026-06-01T20:14:00,resolved,Water accumulation reported on road,synthetic
+RG-000449,pothole,7,13.097277,77.74517,2026-03-25T05:46:00,reported,Large pothole reported on the road,synthetic
+RG-000450,broken_streetlight,1,13.078437,77.576953,2026-04-11T13:03:00,in_progress,Streetlight is not functioning,synthetic
+RG-000451,missing_sign,6,13.058297,77.492026,2026-07-27T08:25:00,in_progress,Important road sign is missing,synthetic
+RG-000452,missing_sign,9,12.985198,77.492878,2026-05-09T17:06:00,verified,Important road sign is missing,synthetic
+RG-000453,accident,7,13.029698,77.542822,2026-03-15T14:09:00,in_progress,Road accident reported,synthetic
+RG-000454,damaged_road,10,12.917263,77.52094,2026-06-30T07:27:00,reported,Road surface is damaged,synthetic
+RG-000455,flooding,4,12.923435,77.702726,2026-04-12T12:06:00,in_progress,Water accumulation reported on road,synthetic
+RG-000456,damaged_road,1,12.966774,77.649512,2026-02-12T18:56:00,resolved,Road surface is damaged,synthetic
+RG-000457,missing_sign,5,13.089916,77.720134,2026-08-22T07:51:00,verified,Important road sign is missing,synthetic
+RG-000458,flooding,5,12.874868,77.70407,2026-03-16T10:40:00,resolved,Water accumulation reported on road,synthetic
+RG-000459,pothole,5,12.873099,77.571312,2026-06-13T20:17:00,in_progress,Large pothole reported on the road,synthetic
+RG-000460,pothole,2,12.974654,77.531584,2026-01-28T16:37:00,in_progress,Large pothole reported on the road,synthetic
+RG-000461,pothole,3,12.870893,77.456751,2026-03-11T03:51:00,verified,Large pothole reported on the road,synthetic
+RG-000462,missing_sign,8,13.074056,77.735221,2026-04-11T15:29:00,reported,Important road sign is missing,synthetic
+RG-000463,pothole,8,13.058407,77.451287,2026-09-01T08:43:00,in_progress,Large pothole reported on the road,synthetic
+RG-000464,flooding,6,12.988768,77.738522,2026-02-22T18:36:00,in_progress,Water accumulation reported on road,synthetic
+RG-000465,accident,7,13.026158,77.523712,2026-01-18T16:26:00,in_progress,Road accident reported,synthetic
+RG-000466,missing_sign,6,12.887515,77.486876,2026-06-21T23:47:00,reported,Important road sign is missing,synthetic
+RG-000467,missing_sign,4,13.001399,77.629011,2026-08-11T13:01:00,verified,Important road sign is missing,synthetic
+RG-000468,missing_sign,9,13.086207,77.522855,2026-01-02T02:50:00,reported,Important road sign is missing,synthetic
+RG-000469,broken_streetlight,8,12.880578,77.505731,2026-04-08T09:14:00,resolved,Streetlight is not functioning,synthetic
+RG-000470,pothole,6,13.050085,77.636135,2026-06-16T23:24:00,verified,Large pothole reported on the road,synthetic
+RG-000471,flooding,6,12.917977,77.729428,2026-02-17T10:32:00,in_progress,Water accumulation reported on road,synthetic
+RG-000472,damaged_road,1,12.9875,77.617299,2026-01-16T01:19:00,resolved,Road surface is damaged,synthetic
+RG-000473,damaged_road,2,13.012602,77.685971,2026-06-26T22:00:00,in_progress,Road surface is damaged,synthetic
+RG-000474,pothole,6,13.055984,77.534365,2026-02-26T22:45:00,verified,Large pothole reported on the road,synthetic
+RG-000475,accident,5,13.099542,77.568981,2026-02-13T12:21:00,verified,Road accident reported,synthetic
+RG-000476,broken_streetlight,6,12.943144,77.524941,2026-07-06T05:09:00,reported,Streetlight is not functioning,synthetic
+RG-000477,flooding,2,12.85155,77.579252,2026-07-05T08:41:00,reported,Water accumulation reported on road,synthetic
+RG-000478,damaged_road,9,13.029286,77.6357,2026-01-27T22:56:00,in_progress,Road surface is damaged,synthetic
+RG-000479,broken_streetlight,10,12.907466,77.507956,2026-02-28T07:36:00,resolved,Streetlight is not functioning,synthetic
+RG-000480,broken_streetlight,3,13.056455,77.552498,2026-08-05T05:16:00,in_progress,Streetlight is not functioning,synthetic
+RG-000481,damaged_road,9,12.940544,77.651173,2026-01-17T10:33:00,in_progress,Road surface is damaged,synthetic
+RG-000482,damaged_road,3,12.908416,77.588694,2026-04-12T09:15:00,reported,Road surface is damaged,synthetic
+RG-000483,broken_streetlight,10,13.052092,77.46795,2026-04-16T10:02:00,resolved,Streetlight is not functioning,synthetic
+RG-000484,flooding,8,12.984281,77.649768,2026-09-03T05:26:00,resolved,Water accumulation reported on road,synthetic
+RG-000485,broken_streetlight,10,12.998819,77.691825,2026-02-19T16:48:00,verified,Streetlight is not functioning,synthetic
+RG-000486,accident,10,13.080576,77.533606,2026-07-31T00:38:00,resolved,Road accident reported,synthetic
+RG-000487,broken_streetlight,7,12.893447,77.48121,2026-07-25T20:54:00,reported,Streetlight is not functioning,synthetic
+RG-000488,broken_streetlight,2,13.0943,77.550174,2026-04-22T12:31:00,reported,Streetlight is not functioning,synthetic
+RG-000489,missing_sign,6,13.042238,77.479614,2026-07-18T03:33:00,reported,Important road sign is missing,synthetic
+RG-000490,pothole,2,12.988328,77.693516,2026-02-09T10:00:00,reported,Large pothole reported on the road,synthetic
+RG-000491,flooding,5,12.941039,77.604164,2026-03-17T03:14:00,reported,Water accumulation reported on road,synthetic
+RG-000492,pothole,5,12.92328,77.69434,2026-01-24T13:47:00,in_progress,Large pothole reported on the road,synthetic
+RG-000493,accident,7,13.057362,77.699087,2026-06-12T11:43:00,in_progress,Road accident reported,synthetic
+RG-000494,flooding,2,12.971221,77.466597,2026-04-27T06:00:00,resolved,Water accumulation reported on road,synthetic
+RG-000495,flooding,10,12.980322,77.593831,2026-05-31T18:37:00,verified,Water accumulation reported on road,synthetic
+RG-000496,flooding,7,12.965708,77.639081,2026-04-27T22:58:00,resolved,Water accumulation reported on road,synthetic
+RG-000497,flooding,9,12.992794,77.636031,2026-06-27T04:05:00,reported,Water accumulation reported on road,synthetic
+RG-000498,accident,5,13.052982,77.528971,2026-07-22T14:54:00,in_progress,Road accident reported,synthetic
+RG-000499,pothole,10,13.045247,77.661559,2026-05-30T20:30:00,in_progress,Large pothole reported on the road,synthetic
+RG-000500,pothole,5,12.961083,77.562561,2026-07-01T02:46:00,reported,Large pothole reported on the road,synthetic
+RG-000501,accident,5,12.921145,77.516782,2026-04-22T18:35:00,resolved,Road accident reported,synthetic
+RG-000502,flooding,8,13.065107,77.598892,2026-08-31T03:21:00,in_progress,Water accumulation reported on road,synthetic
+RG-000503,damaged_road,3,12.896856,77.527014,2026-02-15T17:18:00,in_progress,Road surface is damaged,synthetic
+RG-000504,broken_streetlight,1,12.943547,77.7465,2026-03-06T01:25:00,reported,Streetlight is not functioning,synthetic
+RG-000505,broken_streetlight,2,12.96359,77.511849,2026-01-06T09:07:00,reported,Streetlight is not functioning,synthetic
+RG-000506,missing_sign,3,12.958377,77.527878,2026-07-19T15:47:00,resolved,Important road sign is missing,synthetic
+RG-000507,flooding,9,13.097988,77.607606,2026-02-03T10:40:00,resolved,Water accumulation reported on road,synthetic
+RG-000508,missing_sign,3,12.983413,77.461055,2026-08-23T17:23:00,verified,Important road sign is missing,synthetic
+RG-000509,flooding,10,12.908251,77.537226,2026-03-25T13:34:00,reported,Water accumulation reported on road,synthetic
+RG-000510,accident,7,13.079473,77.580108,2026-05-30T16:13:00,in_progress,Road accident reported,synthetic
+RG-000511,pothole,4,12.908656,77.568337,2026-08-11T22:39:00,in_progress,Large pothole reported on the road,synthetic
+RG-000512,pothole,8,13.044356,77.470685,2026-07-20T23:06:00,verified,Large pothole reported on the road,synthetic
+RG-000513,missing_sign,2,12.892913,77.491483,2026-04-24T19:55:00,reported,Important road sign is missing,synthetic
+RG-000514,flooding,5,12.860606,77.692104,2026-06-26T04:24:00,resolved,Water accumulation reported on road,synthetic
+RG-000515,flooding,7,13.03337,77.544027,2026-01-03T05:12:00,in_progress,Water accumulation reported on road,synthetic
+RG-000516,flooding,6,12.963483,77.577605,2026-04-29T20:11:00,reported,Water accumulation reported on road,synthetic
+RG-000517,damaged_road,10,12.981769,77.649235,2026-02-11T09:18:00,reported,Road surface is damaged,synthetic
+RG-000518,pothole,3,12.907026,77.596385,2026-08-01T18:34:00,reported,Large pothole reported on the road,synthetic
+RG-000519,missing_sign,3,13.02779,77.606265,2026-04-08T17:13:00,verified,Important road sign is missing,synthetic
+RG-000520,accident,7,13.009134,77.594623,2026-07-18T18:59:00,verified,Road accident reported,synthetic
+RG-000521,pothole,3,12.931902,77.694103,2026-02-02T09:28:00,in_progress,Large pothole reported on the road,synthetic
+RG-000522,damaged_road,1,12.932752,77.610711,2026-06-15T10:10:00,resolved,Road surface is damaged,synthetic
+RG-000523,broken_streetlight,3,12.96344,77.649759,2026-06-09T05:28:00,in_progress,Streetlight is not functioning,synthetic
+RG-000524,damaged_road,9,13.094006,77.668846,2026-06-24T19:36:00,resolved,Road surface is damaged,synthetic
+RG-000525,accident,10,12.933473,77.608115,2026-08-02T05:59:00,resolved,Road accident reported,synthetic
+RG-000526,damaged_road,3,12.89315,77.61141,2026-02-22T18:53:00,resolved,Road surface is damaged,synthetic
+RG-000527,accident,1,12.931902,77.669564,2026-02-18T16:47:00,verified,Road accident reported,synthetic
+RG-000528,accident,9,13.004233,77.67469,2026-07-17T01:03:00,reported,Road accident reported,synthetic
+RG-000529,pothole,7,13.01335,77.732585,2026-05-31T15:59:00,verified,Large pothole reported on the road,synthetic
+RG-000530,missing_sign,9,12.919211,77.529147,2026-02-09T00:58:00,in_progress,Important road sign is missing,synthetic
+RG-000531,accident,9,12.932967,77.644543,2026-03-04T21:58:00,verified,Road accident reported,synthetic
+RG-000532,missing_sign,2,12.85048,77.50995,2026-06-01T08:22:00,reported,Important road sign is missing,synthetic
+RG-000533,accident,8,12.916269,77.574949,2026-02-08T03:20:00,verified,Road accident reported,synthetic
+RG-000534,accident,6,13.05058,77.745292,2026-07-31T05:07:00,reported,Road accident reported,synthetic
+RG-000535,broken_streetlight,6,13.072729,77.45422,2026-05-23T04:06:00,in_progress,Streetlight is not functioning,synthetic
+RG-000536,flooding,6,12.989043,77.599405,2026-07-18T06:10:00,resolved,Water accumulation reported on road,synthetic
+RG-000537,missing_sign,6,13.057574,77.622117,2026-07-09T05:21:00,in_progress,Important road sign is missing,synthetic
+RG-000538,flooding,10,13.024672,77.5544,2026-01-26T01:05:00,resolved,Water accumulation reported on road,synthetic
+RG-000539,missing_sign,2,13.075748,77.473705,2026-05-06T15:02:00,verified,Important road sign is missing,synthetic
+RG-000540,flooding,4,12.890061,77.626369,2026-06-28T12:21:00,verified,Water accumulation reported on road,synthetic
+RG-000541,broken_streetlight,5,12.90776,77.569564,2026-07-24T23:06:00,in_progress,Streetlight is not functioning,synthetic
+RG-000542,pothole,9,13.037651,77.657367,2026-07-31T23:22:00,in_progress,Large pothole reported on the road,synthetic
+RG-000543,missing_sign,1,13.097496,77.520563,2026-07-11T01:08:00,verified,Important road sign is missing,synthetic
+RG-000544,accident,10,13.075258,77.5407,2026-08-09T07:52:00,resolved,Road accident reported,synthetic
+RG-000545,pothole,6,12.997623,77.450491,2026-05-07T17:36:00,in_progress,Large pothole reported on the road,synthetic
+RG-000546,pothole,10,12.971122,77.594659,2026-03-09T09:20:00,in_progress,Large pothole reported on the road,synthetic
+RG-000547,flooding,3,12.879233,77.710352,2026-07-24T04:11:00,resolved,Water accumulation reported on road,synthetic
+RG-000548,missing_sign,1,12.970373,77.670236,2026-03-10T16:22:00,in_progress,Important road sign is missing,synthetic
+RG-000549,accident,2,13.015071,77.558507,2026-07-26T01:10:00,verified,Road accident reported,synthetic
+RG-000550,broken_streetlight,10,12.979802,77.458966,2026-06-18T10:48:00,in_progress,Streetlight is not functioning,synthetic
+RG-000551,missing_sign,3,13.06691,77.582961,2026-03-10T02:03:00,verified,Important road sign is missing,synthetic
+RG-000552,accident,3,13.020624,77.645237,2026-06-07T19:41:00,verified,Road accident reported,synthetic
+RG-000553,damaged_road,5,13.050425,77.455452,2026-05-17T16:44:00,in_progress,Road surface is damaged,synthetic
+RG-000554,flooding,3,12.905319,77.658953,2026-02-19T06:28:00,reported,Water accumulation reported on road,synthetic
+RG-000555,damaged_road,8,12.85368,77.503168,2026-04-04T03:33:00,in_progress,Road surface is damaged,synthetic
+RG-000556,missing_sign,1,12.975026,77.559297,2026-06-20T05:17:00,resolved,Important road sign is missing,synthetic
+RG-000557,missing_sign,1,13.081039,77.561269,2026-07-10T16:39:00,reported,Important road sign is missing,synthetic
+RG-000558,missing_sign,9,13.093717,77.734854,2026-05-26T22:24:00,in_progress,Important road sign is missing,synthetic
+RG-000559,accident,6,12.87679,77.713408,2026-01-12T19:40:00,resolved,Road accident reported,synthetic
+RG-000560,broken_streetlight,6,12.857485,77.544404,2026-09-06T06:35:00,resolved,Streetlight is not functioning,synthetic
+RG-000561,broken_streetlight,1,12.913743,77.749543,2026-08-15T16:07:00,verified,Streetlight is not functioning,synthetic
+RG-000562,flooding,3,12.999212,77.478314,2026-06-02T19:31:00,verified,Water accumulation reported on road,synthetic
+RG-000563,flooding,6,12.926322,77.532313,2026-08-05T22:41:00,verified,Water accumulation reported on road,synthetic
+RG-000564,flooding,9,12.96925,77.560275,2026-02-16T15:46:00,verified,Water accumulation reported on road,synthetic
+RG-000565,accident,2,13.015874,77.557126,2026-07-03T14:48:00,resolved,Road accident reported,synthetic
+RG-000566,damaged_road,3,13.072888,77.472104,2026-05-26T22:48:00,verified,Road surface is damaged,synthetic
+RG-000567,pothole,3,12.907929,77.74315,2026-05-23T07:59:00,in_progress,Large pothole reported on the road,synthetic
+RG-000568,accident,1,12.94077,77.548126,2026-07-29T22:37:00,resolved,Road accident reported,synthetic
+RG-000569,pothole,2,12.934312,77.592052,2026-08-02T11:47:00,verified,Large pothole reported on the road,synthetic
+RG-000570,missing_sign,1,12.854917,77.482695,2026-08-17T16:13:00,verified,Important road sign is missing,synthetic
+RG-000571,damaged_road,9,13.089697,77.734627,2026-04-18T10:23:00,in_progress,Road surface is damaged,synthetic
+RG-000572,accident,5,12.917725,77.624156,2026-05-08T13:45:00,reported,Road accident reported,synthetic
+RG-000573,missing_sign,8,12.891359,77.720584,2026-09-05T07:53:00,verified,Important road sign is missing,synthetic
+RG-000574,pothole,1,13.020945,77.68613,2026-02-13T18:40:00,in_progress,Large pothole reported on the road,synthetic
+RG-000575,flooding,7,13.022194,77.595764,2026-07-23T04:54:00,in_progress,Water accumulation reported on road,synthetic
+RG-000576,broken_streetlight,10,12.856248,77.458848,2026-05-11T22:49:00,resolved,Streetlight is not functioning,synthetic
+RG-000577,missing_sign,2,12.867783,77.609867,2026-01-28T20:28:00,resolved,Important road sign is missing,synthetic
+RG-000578,damaged_road,6,12.966744,77.561472,2026-04-29T21:45:00,verified,Road surface is damaged,synthetic
+RG-000579,pothole,4,13.028739,77.534898,2026-07-17T02:29:00,resolved,Large pothole reported on the road,synthetic
+RG-000580,accident,9,12.914732,77.727111,2026-06-13T03:44:00,verified,Road accident reported,synthetic
+RG-000581,pothole,4,12.913433,77.70057,2026-05-07T18:05:00,verified,Large pothole reported on the road,synthetic
+RG-000582,accident,7,12.924785,77.496066,2026-07-11T23:23:00,verified,Road accident reported,synthetic
+RG-000583,pothole,2,13.010534,77.659987,2026-06-22T20:59:00,reported,Large pothole reported on the road,synthetic
+RG-000584,damaged_road,2,13.004091,77.52341,2026-05-26T11:52:00,verified,Road surface is damaged,synthetic
+RG-000585,flooding,10,12.913972,77.70541,2026-02-15T15:56:00,in_progress,Water accumulation reported on road,synthetic
+RG-000586,missing_sign,7,12.986851,77.574345,2026-04-02T13:46:00,reported,Important road sign is missing,synthetic
+RG-000587,missing_sign,5,13.091984,77.747545,2026-02-25T15:03:00,in_progress,Important road sign is missing,synthetic
+RG-000588,damaged_road,8,12.89486,77.648776,2026-05-30T05:19:00,verified,Road surface is damaged,synthetic
+RG-000589,accident,3,13.076302,77.55998,2026-07-10T19:40:00,resolved,Road accident reported,synthetic
+RG-000590,accident,10,12.957846,77.465657,2026-03-27T10:01:00,verified,Road accident reported,synthetic
+RG-000591,broken_streetlight,4,13.095335,77.597247,2026-04-26T20:30:00,resolved,Streetlight is not functioning,synthetic
+RG-000592,accident,9,13.03609,77.532247,2026-05-06T14:23:00,resolved,Road accident reported,synthetic
+RG-000593,broken_streetlight,8,12.906132,77.702562,2026-03-10T10:08:00,in_progress,Streetlight is not functioning,synthetic
+RG-000594,pothole,7,13.073761,77.462843,2026-03-05T17:07:00,reported,Large pothole reported on the road,synthetic
+RG-000595,missing_sign,9,12.955879,77.64898,2026-09-07T12:56:00,resolved,Important road sign is missing,synthetic
+RG-000596,broken_streetlight,2,13.060144,77.676029,2026-01-20T15:11:00,resolved,Streetlight is not functioning,synthetic
+RG-000597,damaged_road,8,13.03617,77.741038,2026-06-12T09:37:00,reported,Road surface is damaged,synthetic
+RG-000598,broken_streetlight,3,12.892484,77.667331,2026-05-06T17:54:00,resolved,Streetlight is not functioning,synthetic
+RG-000599,flooding,9,12.989499,77.459154,2026-03-22T08:12:00,resolved,Water accumulation reported on road,synthetic
+RG-000600,missing_sign,6,13.068196,77.488368,2026-08-24T02:17:00,in_progress,Important road sign is missing,synthetic
+RG-000601,flooding,8,12.99391,77.651941,2026-06-04T16:59:00,reported,Water accumulation reported on road,synthetic
+RG-000602,flooding,4,13.005521,77.538642,2026-01-02T19:41:00,in_progress,Water accumulation reported on road,synthetic
+RG-000603,missing_sign,7,12.868042,77.668935,2026-04-30T19:04:00,resolved,Important road sign is missing,synthetic
+RG-000604,flooding,10,13.088579,77.505208,2026-06-17T12:39:00,verified,Water accumulation reported on road,synthetic
+RG-000605,accident,3,13.001789,77.488941,2026-05-16T21:45:00,reported,Road accident reported,synthetic
+RG-000606,missing_sign,7,13.091545,77.675112,2026-02-17T10:50:00,verified,Important road sign is missing,synthetic
+RG-000607,broken_streetlight,1,13.044951,77.625287,2026-07-20T03:09:00,resolved,Streetlight is not functioning,synthetic
+RG-000608,pothole,2,13.030431,77.497011,2026-01-27T19:00:00,in_progress,Large pothole reported on the road,synthetic
+RG-000609,damaged_road,2,13.039909,77.743382,2026-07-14T22:56:00,reported,Road surface is damaged,synthetic
+RG-000610,damaged_road,4,12.904089,77.476702,2026-07-31T04:11:00,in_progress,Road surface is damaged,synthetic
+RG-000611,accident,4,13.033896,77.691589,2026-01-02T00:08:00,reported,Road accident reported,synthetic
+RG-000612,accident,4,13.055544,77.645897,2026-05-13T11:23:00,verified,Road accident reported,synthetic
+RG-000613,flooding,7,13.060228,77.516955,2026-04-14T01:28:00,resolved,Water accumulation reported on road,synthetic
+RG-000614,accident,5,12.909178,77.591013,2026-03-09T21:48:00,verified,Road accident reported,synthetic
+RG-000615,missing_sign,4,12.986807,77.581955,2026-03-24T09:50:00,reported,Important road sign is missing,synthetic
+RG-000616,broken_streetlight,1,12.92487,77.563189,2026-01-20T10:00:00,verified,Streetlight is not functioning,synthetic
+RG-000617,broken_streetlight,4,12.876495,77.561672,2026-02-07T19:10:00,resolved,Streetlight is not functioning,synthetic
+RG-000618,missing_sign,6,12.978052,77.588574,2026-06-19T03:56:00,verified,Important road sign is missing,synthetic
+RG-000619,flooding,8,12.861447,77.635661,2026-09-07T17:46:00,resolved,Water accumulation reported on road,synthetic
+RG-000620,pothole,5,13.090558,77.589176,2026-07-05T01:40:00,in_progress,Large pothole reported on the road,synthetic
+RG-000621,damaged_road,9,12.870131,77.524715,2026-06-20T19:21:00,resolved,Road surface is damaged,synthetic
+RG-000622,damaged_road,5,12.940122,77.57749,2026-05-21T19:44:00,reported,Road surface is damaged,synthetic
+RG-000623,flooding,8,13.048218,77.67831,2026-04-24T09:51:00,resolved,Water accumulation reported on road,synthetic
+RG-000624,accident,9,13.03268,77.672441,2026-06-05T22:52:00,in_progress,Road accident reported,synthetic
+RG-000625,accident,6,12.950664,77.631427,2026-02-05T03:32:00,reported,Road accident reported,synthetic
+RG-000626,pothole,10,13.043063,77.535982,2026-01-01T19:18:00,in_progress,Large pothole reported on the road,synthetic
+RG-000627,missing_sign,10,12.917201,77.589125,2026-02-15T04:56:00,reported,Important road sign is missing,synthetic
+RG-000628,missing_sign,7,12.956616,77.697112,2026-07-03T00:14:00,resolved,Important road sign is missing,synthetic
+RG-000629,flooding,9,13.075613,77.539447,2026-06-30T02:59:00,in_progress,Water accumulation reported on road,synthetic
+RG-000630,missing_sign,4,12.956084,77.732937,2026-04-25T23:36:00,verified,Important road sign is missing,synthetic
+RG-000631,missing_sign,5,12.995926,77.46862,2026-07-19T23:34:00,resolved,Important road sign is missing,synthetic
+RG-000632,pothole,7,12.979604,77.513285,2026-02-02T14:57:00,reported,Large pothole reported on the road,synthetic
+RG-000633,broken_streetlight,1,13.095723,77.577432,2026-04-21T05:32:00,in_progress,Streetlight is not functioning,synthetic
+RG-000634,damaged_road,2,13.004469,77.655126,2026-03-13T21:24:00,reported,Road surface is damaged,synthetic
+RG-000635,flooding,3,13.091784,77.478916,2026-04-02T23:47:00,verified,Water accumulation reported on road,synthetic
+RG-000636,missing_sign,7,13.046589,77.495023,2026-05-29T16:59:00,in_progress,Important road sign is missing,synthetic
+RG-000637,missing_sign,10,12.891777,77.452485,2026-07-20T06:11:00,in_progress,Important road sign is missing,synthetic
+RG-000638,broken_streetlight,3,13.050728,77.587761,2026-07-09T02:09:00,resolved,Streetlight is not functioning,synthetic
+RG-000639,broken_streetlight,10,12.969654,77.68343,2026-07-17T00:48:00,resolved,Streetlight is not functioning,synthetic
+RG-000640,flooding,10,12.879461,77.480951,2026-01-06T09:05:00,resolved,Water accumulation reported on road,synthetic
+RG-000641,pothole,4,13.070273,77.636684,2026-06-15T06:56:00,verified,Large pothole reported on the road,synthetic
+RG-000642,damaged_road,2,12.910029,77.582116,2026-08-18T12:48:00,resolved,Road surface is damaged,synthetic
+RG-000643,missing_sign,5,12.907366,77.632661,2026-09-01T19:02:00,resolved,Important road sign is missing,synthetic
+RG-000644,broken_streetlight,5,12.980338,77.605568,2026-07-01T12:59:00,reported,Streetlight is not functioning,synthetic
+RG-000645,broken_streetlight,1,12.903347,77.739927,2026-05-20T19:36:00,verified,Streetlight is not functioning,synthetic
+RG-000646,missing_sign,5,13.066428,77.495122,2026-01-31T20:00:00,reported,Important road sign is missing,synthetic
+RG-000647,damaged_road,3,12.858552,77.681362,2026-01-20T20:51:00,resolved,Road surface is damaged,synthetic
+RG-000648,broken_streetlight,1,12.993643,77.555364,2026-06-19T18:00:00,resolved,Streetlight is not functioning,synthetic
+RG-000649,pothole,5,12.949896,77.466629,2026-03-04T16:00:00,reported,Large pothole reported on the road,synthetic
+RG-000650,missing_sign,9,13.074754,77.526712,2026-07-23T02:31:00,reported,Important road sign is missing,synthetic
+RG-000651,pothole,6,13.086724,77.559466,2026-04-27T14:48:00,in_progress,Large pothole reported on the road,synthetic
+RG-000652,broken_streetlight,3,12.915399,77.591427,2026-03-22T20:23:00,verified,Streetlight is not functioning,synthetic
+RG-000653,accident,4,12.967785,77.726175,2026-06-21T08:43:00,in_progress,Road accident reported,synthetic
+RG-000654,broken_streetlight,2,12.905582,77.505593,2026-04-19T19:11:00,in_progress,Streetlight is not functioning,synthetic
+RG-000655,broken_streetlight,1,13.072445,77.533487,2026-05-22T07:14:00,resolved,Streetlight is not functioning,synthetic
+RG-000656,flooding,1,12.989798,77.609934,2026-07-21T21:23:00,in_progress,Water accumulation reported on road,synthetic
+RG-000657,pothole,6,12.858273,77.491555,2026-06-30T07:53:00,in_progress,Large pothole reported on the road,synthetic
+RG-000658,accident,3,13.086448,77.699235,2026-01-25T22:23:00,resolved,Road accident reported,synthetic
+RG-000659,broken_streetlight,1,12.987057,77.475066,2026-07-29T19:54:00,reported,Streetlight is not functioning,synthetic
+RG-000660,pothole,1,13.063528,77.663945,2026-07-07T09:27:00,resolved,Large pothole reported on the road,synthetic
+RG-000661,missing_sign,8,13.034124,77.615024,2026-07-22T15:28:00,in_progress,Important road sign is missing,synthetic
+RG-000662,flooding,3,13.005852,77.664148,2026-03-02T19:38:00,verified,Water accumulation reported on road,synthetic
+RG-000663,flooding,8,13.095498,77.624457,2026-02-01T00:28:00,in_progress,Water accumulation reported on road,synthetic
+RG-000664,pothole,2,12.933004,77.708382,2026-05-28T09:06:00,resolved,Large pothole reported on the road,synthetic
+RG-000665,pothole,1,13.013263,77.545654,2026-05-14T11:13:00,reported,Large pothole reported on the road,synthetic
+RG-000666,pothole,9,12.978276,77.670673,2026-05-11T21:52:00,reported,Large pothole reported on the road,synthetic
+RG-000667,pothole,10,12.854231,77.710481,2026-02-19T09:41:00,in_progress,Large pothole reported on the road,synthetic
+RG-000668,accident,9,12.942174,77.593487,2026-07-09T19:02:00,verified,Road accident reported,synthetic
+RG-000669,broken_streetlight,1,12.918694,77.683621,2026-01-01T22:45:00,reported,Streetlight is not functioning,synthetic
+RG-000670,missing_sign,1,13.050323,77.691776,2026-01-27T21:36:00,resolved,Important road sign is missing,synthetic
+RG-000671,accident,1,12.953299,77.688153,2026-05-05T04:07:00,reported,Road accident reported,synthetic
+RG-000672,broken_streetlight,5,13.098814,77.511186,2026-06-30T22:40:00,verified,Streetlight is not functioning,synthetic
+RG-000673,damaged_road,2,12.889252,77.547863,2026-08-10T13:05:00,in_progress,Road surface is damaged,synthetic
+RG-000674,missing_sign,3,13.062543,77.622614,2026-07-22T06:42:00,resolved,Important road sign is missing,synthetic
+RG-000675,broken_streetlight,10,12.855279,77.493367,2026-08-07T12:04:00,verified,Streetlight is not functioning,synthetic
+RG-000676,missing_sign,9,12.958395,77.610523,2026-07-20T20:56:00,verified,Important road sign is missing,synthetic
+RG-000677,flooding,8,12.884356,77.695954,2026-02-05T10:16:00,in_progress,Water accumulation reported on road,synthetic
+RG-000678,accident,1,12.945418,77.649684,2026-07-29T19:04:00,resolved,Road accident reported,synthetic
+RG-000679,damaged_road,3,12.955071,77.508206,2026-01-13T10:49:00,in_progress,Road surface is damaged,synthetic
+RG-000680,damaged_road,9,12.886487,77.722831,2026-05-17T07:55:00,reported,Road surface is damaged,synthetic
+RG-000681,broken_streetlight,4,13.018497,77.599191,2026-04-21T22:46:00,verified,Streetlight is not functioning,synthetic
+RG-000682,broken_streetlight,9,12.966266,77.625724,2026-08-14T06:48:00,verified,Streetlight is not functioning,synthetic
+RG-000683,flooding,4,12.894675,77.718043,2026-08-30T19:49:00,reported,Water accumulation reported on road,synthetic
+RG-000684,damaged_road,10,12.882382,77.465887,2026-06-17T23:41:00,verified,Road surface is damaged,synthetic
+RG-000685,pothole,5,13.062796,77.719011,2026-04-12T03:14:00,resolved,Large pothole reported on the road,synthetic
+RG-000686,accident,2,12.886818,77.490794,2026-01-27T16:42:00,in_progress,Road accident reported,synthetic
+RG-000687,missing_sign,1,12.936406,77.475474,2026-05-31T18:41:00,resolved,Important road sign is missing,synthetic
+RG-000688,missing_sign,8,12.872976,77.69589,2026-03-22T23:29:00,in_progress,Important road sign is missing,synthetic
+RG-000689,accident,1,12.948791,77.552645,2026-04-19T14:28:00,resolved,Road accident reported,synthetic
+RG-000690,damaged_road,3,12.877018,77.504191,2026-01-10T00:24:00,in_progress,Road surface is damaged,synthetic
+RG-000691,missing_sign,9,12.910601,77.6068,2026-05-27T10:20:00,resolved,Important road sign is missing,synthetic
+RG-000692,damaged_road,1,12.879216,77.482789,2026-07-28T08:38:00,reported,Road surface is damaged,synthetic
+RG-000693,flooding,2,13.028319,77.716844,2026-08-28T03:50:00,verified,Water accumulation reported on road,synthetic
+RG-000694,broken_streetlight,7,12.946143,77.569584,2026-08-22T12:48:00,resolved,Streetlight is not functioning,synthetic
+RG-000695,missing_sign,7,12.996775,77.646608,2026-04-07T12:06:00,verified,Important road sign is missing,synthetic
+RG-000696,broken_streetlight,1,12.897231,77.493461,2026-08-23T16:02:00,in_progress,Streetlight is not functioning,synthetic
+RG-000697,broken_streetlight,5,12.858305,77.551904,2026-05-16T10:55:00,verified,Streetlight is not functioning,synthetic
+RG-000698,pothole,6,12.868644,77.594603,2026-08-24T03:47:00,in_progress,Large pothole reported on the road,synthetic
+RG-000699,pothole,4,13.061022,77.664716,2026-03-21T21:42:00,verified,Large pothole reported on the road,synthetic
+RG-000700,accident,4,13.055824,77.716996,2026-03-28T22:05:00,in_progress,Road accident reported,synthetic
+RG-000701,flooding,7,13.029816,77.735364,2026-08-05T05:36:00,reported,Water accumulation reported on road,synthetic
+RG-000702,pothole,7,12.872663,77.508681,2026-03-12T04:48:00,verified,Large pothole reported on the road,synthetic
+RG-000703,accident,3,13.004121,77.484416,2026-01-31T22:09:00,in_progress,Road accident reported,synthetic
+RG-000704,pothole,2,12.865479,77.614285,2026-04-24T10:45:00,verified,Large pothole reported on the road,synthetic
+RG-000705,missing_sign,3,12.979011,77.475632,2026-01-30T01:46:00,in_progress,Important road sign is missing,synthetic
+RG-000706,flooding,2,13.07812,77.466144,2026-05-25T16:54:00,reported,Water accumulation reported on road,synthetic
+RG-000707,missing_sign,8,13.023458,77.527674,2026-01-05T13:24:00,resolved,Important road sign is missing,synthetic
+RG-000708,broken_streetlight,3,13.035497,77.637124,2026-06-06T19:08:00,resolved,Streetlight is not functioning,synthetic
+RG-000709,pothole,1,12.856539,77.691132,2026-04-26T02:42:00,resolved,Large pothole reported on the road,synthetic
+RG-000710,pothole,6,13.062897,77.548887,2026-05-04T13:20:00,resolved,Large pothole reported on the road,synthetic
+RG-000711,accident,5,13.042315,77.616953,2026-07-03T19:31:00,reported,Road accident reported,synthetic
+RG-000712,pothole,6,13.051089,77.626042,2026-06-14T00:27:00,in_progress,Large pothole reported on the road,synthetic
+RG-000713,damaged_road,10,13.094031,77.550106,2026-07-09T20:58:00,verified,Road surface is damaged,synthetic
+RG-000714,damaged_road,9,12.931462,77.489285,2026-05-09T04:23:00,resolved,Road surface is damaged,synthetic
+RG-000715,damaged_road,4,12.906899,77.450021,2026-02-28T10:52:00,in_progress,Road surface is damaged,synthetic
+RG-000716,accident,9,13.06051,77.67069,2026-04-02T03:00:00,reported,Road accident reported,synthetic
+RG-000717,broken_streetlight,3,12.86993,77.546495,2026-09-05T13:33:00,in_progress,Streetlight is not functioning,synthetic
+RG-000718,accident,3,13.08849,77.742111,2026-03-10T10:02:00,resolved,Road accident reported,synthetic
+RG-000719,broken_streetlight,9,13.036635,77.609461,2026-03-04T20:55:00,in_progress,Streetlight is not functioning,synthetic
+RG-000720,flooding,2,12.919092,77.614525,2026-06-16T07:41:00,in_progress,Water accumulation reported on road,synthetic
+RG-000721,damaged_road,10,12.96156,77.737627,2026-05-26T16:56:00,in_progress,Road surface is damaged,synthetic
+RG-000722,pothole,4,13.02651,77.461906,2026-02-28T14:52:00,reported,Large pothole reported on the road,synthetic
+RG-000723,pothole,1,12.96439,77.667837,2026-05-20T01:10:00,verified,Large pothole reported on the road,synthetic
+RG-000724,flooding,8,12.989485,77.503996,2026-01-11T04:49:00,in_progress,Water accumulation reported on road,synthetic
+RG-000725,accident,5,13.022412,77.558084,2026-04-27T08:08:00,resolved,Road accident reported,synthetic
+RG-000726,damaged_road,3,13.083197,77.596065,2026-09-01T02:27:00,verified,Road surface is damaged,synthetic
+RG-000727,missing_sign,8,12.873513,77.746515,2026-05-24T20:49:00,verified,Important road sign is missing,synthetic
+RG-000728,accident,7,12.923181,77.644427,2026-08-02T18:01:00,in_progress,Road accident reported,synthetic
+RG-000729,broken_streetlight,4,13.005819,77.497158,2026-05-30T18:15:00,verified,Streetlight is not functioning,synthetic
+RG-000730,accident,1,13.068491,77.648926,2026-04-24T02:33:00,verified,Road accident reported,synthetic
+RG-000731,broken_streetlight,2,13.044233,77.654704,2026-07-07T11:39:00,verified,Streetlight is not functioning,synthetic
+RG-000732,missing_sign,10,12.951107,77.621259,2026-01-29T02:54:00,verified,Important road sign is missing,synthetic
+RG-000733,accident,4,12.957481,77.558454,2026-03-10T08:21:00,resolved,Road accident reported,synthetic
+RG-000734,pothole,6,13.022638,77.465758,2026-09-03T13:06:00,resolved,Large pothole reported on the road,synthetic
+RG-000735,pothole,6,12.984014,77.584213,2026-01-18T10:08:00,verified,Large pothole reported on the road,synthetic
+RG-000736,damaged_road,2,13.077163,77.457422,2026-01-29T00:24:00,in_progress,Road surface is damaged,synthetic
+RG-000737,broken_streetlight,10,12.909987,77.527822,2026-04-22T08:22:00,reported,Streetlight is not functioning,synthetic
+RG-000738,missing_sign,1,12.960319,77.597606,2026-06-24T15:15:00,in_progress,Important road sign is missing,synthetic
+RG-000739,broken_streetlight,8,12.915872,77.466698,2026-02-28T09:26:00,verified,Streetlight is not functioning,synthetic
+RG-000740,missing_sign,5,12.85532,77.612792,2026-01-27T10:53:00,verified,Important road sign is missing,synthetic
+RG-000741,flooding,2,12.962798,77.47962,2026-05-13T18:02:00,verified,Water accumulation reported on road,synthetic
+RG-000742,broken_streetlight,6,13.015033,77.594796,2026-06-18T23:35:00,resolved,Streetlight is not functioning,synthetic
+RG-000743,flooding,10,13.00895,77.650493,2026-03-09T12:10:00,reported,Water accumulation reported on road,synthetic
+RG-000744,flooding,6,12.869517,77.685018,2026-07-12T18:40:00,in_progress,Water accumulation reported on road,synthetic
+RG-000745,damaged_road,5,13.034454,77.453481,2026-02-04T15:32:00,verified,Road surface is damaged,synthetic
+RG-000746,damaged_road,3,13.046392,77.487038,2026-06-11T05:02:00,in_progress,Road surface is damaged,synthetic
+RG-000747,flooding,10,13.051428,77.641498,2026-03-04T09:45:00,resolved,Water accumulation reported on road,synthetic
+RG-000748,missing_sign,4,12.926404,77.486069,2026-06-11T16:06:00,verified,Important road sign is missing,synthetic
+RG-000749,missing_sign,10,12.901149,77.61761,2026-06-16T06:14:00,resolved,Important road sign is missing,synthetic
+RG-000750,broken_streetlight,1,12.853761,77.505923,2026-04-22T09:41:00,reported,Streetlight is not functioning,synthetic
+RG-000751,broken_streetlight,7,13.081804,77.50506,2026-04-04T09:55:00,resolved,Streetlight is not functioning,synthetic
+RG-000752,damaged_road,1,13.059911,77.51007,2026-08-12T12:35:00,verified,Road surface is damaged,synthetic
+RG-000753,accident,3,13.021047,77.549052,2026-04-24T06:38:00,in_progress,Road accident reported,synthetic
+RG-000754,accident,2,13.029403,77.741127,2026-08-11T13:47:00,reported,Road accident reported,synthetic
+RG-000755,missing_sign,5,12.957716,77.545386,2026-05-07T12:43:00,in_progress,Important road sign is missing,synthetic
+RG-000756,broken_streetlight,4,12.936648,77.525672,2026-06-15T16:58:00,reported,Streetlight is not functioning,synthetic
+RG-000757,pothole,8,13.021628,77.673974,2026-05-13T00:26:00,in_progress,Large pothole reported on the road,synthetic
+RG-000758,missing_sign,8,12.869212,77.660144,2026-07-23T05:59:00,in_progress,Important road sign is missing,synthetic
+RG-000759,accident,8,13.095598,77.489925,2026-05-08T11:42:00,in_progress,Road accident reported,synthetic
+RG-000760,missing_sign,1,13.036624,77.469061,2026-06-08T08:17:00,resolved,Important road sign is missing,synthetic
+RG-000761,broken_streetlight,10,12.943918,77.528456,2026-04-27T05:59:00,verified,Streetlight is not functioning,synthetic
+RG-000762,flooding,9,12.862245,77.701049,2026-03-18T22:16:00,resolved,Water accumulation reported on road,synthetic
+RG-000763,damaged_road,3,13.053412,77.658425,2026-03-09T19:27:00,in_progress,Road surface is damaged,synthetic
+RG-000764,damaged_road,5,12.943756,77.632488,2026-09-05T03:21:00,verified,Road surface is damaged,synthetic
+RG-000765,missing_sign,9,12.930267,77.654769,2026-02-19T06:04:00,reported,Important road sign is missing,synthetic
+RG-000766,pothole,1,12.858918,77.737738,2026-02-27T20:52:00,resolved,Large pothole reported on the road,synthetic
+RG-000767,damaged_road,1,13.069072,77.540947,2026-04-09T19:49:00,verified,Road surface is damaged,synthetic
+RG-000768,accident,2,12.93872,77.528568,2026-02-05T00:20:00,in_progress,Road accident reported,synthetic
+RG-000769,missing_sign,8,12.85397,77.701497,2026-03-17T01:23:00,in_progress,Important road sign is missing,synthetic
+RG-000770,flooding,9,13.029495,77.453232,2026-06-19T07:34:00,verified,Water accumulation reported on road,synthetic
+RG-000771,pothole,4,12.957562,77.677536,2026-01-15T10:32:00,resolved,Large pothole reported on the road,synthetic
+RG-000772,flooding,5,13.081429,77.529802,2026-05-05T20:30:00,verified,Water accumulation reported on road,synthetic
+RG-000773,pothole,9,12.890484,77.745043,2026-03-13T22:33:00,resolved,Large pothole reported on the road,synthetic
+RG-000774,damaged_road,3,12.862194,77.522247,2026-01-22T16:25:00,in_progress,Road surface is damaged,synthetic
+RG-000775,missing_sign,2,12.980416,77.71182,2026-04-27T08:36:00,in_progress,Important road sign is missing,synthetic
+RG-000776,broken_streetlight,2,13.070855,77.622696,2026-08-25T16:23:00,reported,Streetlight is not functioning,synthetic
+RG-000777,accident,10,12.920136,77.502157,2026-04-14T16:54:00,in_progress,Road accident reported,synthetic
+RG-000778,broken_streetlight,4,12.927661,77.627919,2026-04-25T20:44:00,reported,Streetlight is not functioning,synthetic
+RG-000779,accident,8,12.855704,77.670549,2026-04-20T07:54:00,verified,Road accident reported,synthetic
+RG-000780,flooding,8,12.876961,77.519952,2026-06-24T12:22:00,verified,Water accumulation reported on road,synthetic
+RG-000781,pothole,2,12.906373,77.675683,2026-02-10T08:21:00,resolved,Large pothole reported on the road,synthetic
+RG-000782,flooding,9,13.018851,77.519331,2026-02-23T16:29:00,in_progress,Water accumulation reported on road,synthetic
+RG-000783,missing_sign,2,13.04368,77.633686,2026-01-02T21:42:00,resolved,Important road sign is missing,synthetic
+RG-000784,missing_sign,5,13.095309,77.454359,2026-08-12T07:15:00,verified,Important road sign is missing,synthetic
+RG-000785,pothole,7,12.98893,77.520349,2026-06-28T07:46:00,resolved,Large pothole reported on the road,synthetic
+RG-000786,accident,7,12.852059,77.671093,2026-07-05T18:16:00,resolved,Road accident reported,synthetic
+RG-000787,damaged_road,6,13.047025,77.598902,2026-02-11T18:22:00,resolved,Road surface is damaged,synthetic
+RG-000788,accident,8,12.939316,77.583686,2026-03-09T04:40:00,in_progress,Road accident reported,synthetic
+RG-000789,flooding,2,12.949953,77.471944,2026-06-10T15:32:00,reported,Water accumulation reported on road,synthetic
+RG-000790,accident,10,13.084777,77.712673,2026-07-27T19:26:00,verified,Road accident reported,synthetic
+RG-000791,damaged_road,3,13.012541,77.684225,2026-08-13T21:33:00,resolved,Road surface is damaged,synthetic
+RG-000792,missing_sign,9,12.994757,77.644691,2026-08-25T10:37:00,resolved,Important road sign is missing,synthetic
+RG-000793,pothole,1,12.886554,77.563951,2026-09-01T22:52:00,in_progress,Large pothole reported on the road,synthetic
+RG-000794,broken_streetlight,9,12.939906,77.627145,2026-08-18T19:44:00,reported,Streetlight is not functioning,synthetic
+RG-000795,accident,10,13.066553,77.719817,2026-01-22T06:54:00,in_progress,Road accident reported,synthetic
+RG-000796,damaged_road,9,13.026996,77.602623,2026-03-19T00:51:00,verified,Road surface is damaged,synthetic
+RG-000797,damaged_road,7,13.079522,77.624593,2026-04-04T08:40:00,reported,Road surface is damaged,synthetic
+RG-000798,damaged_road,6,12.883816,77.625854,2026-02-08T20:59:00,resolved,Road surface is damaged,synthetic
+RG-000799,pothole,6,12.865145,77.631252,2026-01-14T10:42:00,resolved,Large pothole reported on the road,synthetic
+RG-000800,missing_sign,7,13.006989,77.602839,2026-04-10T04:17:00,in_progress,Important road sign is missing,synthetic
+RG-000801,missing_sign,10,12.875387,77.645851,2026-07-23T13:32:00,resolved,Important road sign is missing,synthetic
+RG-000802,accident,3,12.870171,77.705736,2026-07-30T16:19:00,resolved,Road accident reported,synthetic
+RG-000803,flooding,10,13.062016,77.520969,2026-02-24T17:56:00,in_progress,Water accumulation reported on road,synthetic
+RG-000804,pothole,1,12.926977,77.629856,2026-06-30T19:23:00,in_progress,Large pothole reported on the road,synthetic
+RG-000805,missing_sign,2,12.957499,77.693305,2026-05-16T00:08:00,reported,Important road sign is missing,synthetic
+RG-000806,accident,1,12.896539,77.598271,2026-01-27T17:33:00,verified,Road accident reported,synthetic
+RG-000807,missing_sign,7,13.099438,77.492176,2026-02-20T15:36:00,resolved,Important road sign is missing,synthetic
+RG-000808,pothole,9,13.072339,77.572628,2026-01-11T01:01:00,reported,Large pothole reported on the road,synthetic
+RG-000809,broken_streetlight,10,12.99965,77.573664,2026-05-30T01:41:00,in_progress,Streetlight is not functioning,synthetic
+RG-000810,pothole,2,12.893431,77.60261,2026-07-27T12:01:00,resolved,Large pothole reported on the road,synthetic
+RG-000811,pothole,9,13.090212,77.453334,2026-05-30T14:07:00,verified,Large pothole reported on the road,synthetic
+RG-000812,flooding,8,13.060303,77.533114,2026-02-04T16:08:00,resolved,Water accumulation reported on road,synthetic
+RG-000813,pothole,3,12.871933,77.598179,2026-03-02T06:03:00,reported,Large pothole reported on the road,synthetic
+RG-000814,pothole,1,13.071048,77.659319,2026-01-14T04:13:00,resolved,Large pothole reported on the road,synthetic
+RG-000815,pothole,2,13.079744,77.5974,2026-04-08T08:15:00,verified,Large pothole reported on the road,synthetic
+RG-000816,damaged_road,10,13.029407,77.639037,2026-08-04T04:16:00,resolved,Road surface is damaged,synthetic
+RG-000817,pothole,2,13.064754,77.553259,2026-06-27T07:02:00,reported,Large pothole reported on the road,synthetic
+RG-000818,accident,5,13.04967,77.478829,2026-06-21T05:00:00,verified,Road accident reported,synthetic
+RG-000819,damaged_road,7,13.027572,77.731671,2026-07-20T06:14:00,verified,Road surface is damaged,synthetic
+RG-000820,accident,2,12.856284,77.527511,2026-05-20T10:14:00,in_progress,Road accident reported,synthetic
+RG-000821,accident,2,12.897599,77.667982,2026-01-31T14:14:00,verified,Road accident reported,synthetic
+RG-000822,missing_sign,8,13.082284,77.743309,2026-08-05T14:01:00,reported,Important road sign is missing,synthetic
+RG-000823,pothole,6,13.025727,77.505613,2026-05-19T17:23:00,in_progress,Large pothole reported on the road,synthetic
+RG-000824,accident,1,13.026723,77.710319,2026-03-17T19:10:00,resolved,Road accident reported,synthetic
+RG-000825,broken_streetlight,3,12.934023,77.509133,2026-06-28T08:29:00,in_progress,Streetlight is not functioning,synthetic
+RG-000826,accident,3,12.91315,77.654314,2026-02-10T10:20:00,in_progress,Road accident reported,synthetic
+RG-000827,damaged_road,10,12.991845,77.652338,2026-09-03T19:15:00,in_progress,Road surface is damaged,synthetic
+RG-000828,pothole,4,12.93618,77.72162,2026-06-30T09:19:00,verified,Large pothole reported on the road,synthetic
+RG-000829,accident,3,13.077162,77.590474,2026-07-11T06:59:00,reported,Road accident reported,synthetic
+RG-000830,missing_sign,8,12.924988,77.727888,2026-06-27T01:32:00,in_progress,Important road sign is missing,synthetic
+RG-000831,broken_streetlight,6,13.0652,77.65073,2026-08-20T23:51:00,resolved,Streetlight is not functioning,synthetic
+RG-000832,damaged_road,5,12.878965,77.587315,2026-03-15T16:01:00,reported,Road surface is damaged,synthetic
+RG-000833,accident,3,12.896513,77.510542,2026-08-27T19:57:00,resolved,Road accident reported,synthetic
+RG-000834,damaged_road,3,12.931199,77.48602,2026-03-03T10:14:00,reported,Road surface is damaged,synthetic
+RG-000835,missing_sign,6,12.858999,77.713781,2026-01-26T14:09:00,in_progress,Important road sign is missing,synthetic
+RG-000836,damaged_road,9,13.061918,77.748207,2026-03-13T17:12:00,reported,Road surface is damaged,synthetic
+RG-000837,flooding,2,12.990993,77.668023,2026-03-06T04:34:00,verified,Water accumulation reported on road,synthetic
+RG-000838,accident,1,12.882936,77.692559,2026-03-04T20:53:00,in_progress,Road accident reported,synthetic
+RG-000839,damaged_road,10,13.01019,77.508305,2026-01-26T08:38:00,verified,Road surface is damaged,synthetic
+RG-000840,damaged_road,1,12.961374,77.537322,2026-05-13T04:12:00,verified,Road surface is damaged,synthetic
+RG-000841,accident,8,12.878897,77.497679,2026-03-19T13:53:00,reported,Road accident reported,synthetic
+RG-000842,flooding,10,12.885834,77.695931,2026-02-23T18:17:00,verified,Water accumulation reported on road,synthetic
+RG-000843,accident,5,12.957991,77.651669,2026-05-11T13:15:00,in_progress,Road accident reported,synthetic
+RG-000844,accident,8,12.922501,77.596405,2026-04-11T13:13:00,in_progress,Road accident reported,synthetic
+RG-000845,broken_streetlight,3,12.940247,77.682181,2026-06-15T21:03:00,in_progress,Streetlight is not functioning,synthetic
+RG-000846,accident,4,13.024004,77.680656,2026-02-26T11:21:00,reported,Road accident reported,synthetic
+RG-000847,broken_streetlight,7,12.957629,77.638478,2026-05-18T13:44:00,verified,Streetlight is not functioning,synthetic
+RG-000848,broken_streetlight,5,12.981626,77.491537,2026-08-02T05:45:00,in_progress,Streetlight is not functioning,synthetic
+RG-000849,damaged_road,5,12.886415,77.488001,2026-03-08T00:07:00,reported,Road surface is damaged,synthetic
+RG-000850,broken_streetlight,8,13.02756,77.543139,2026-01-23T15:46:00,in_progress,Streetlight is not functioning,synthetic
+RG-000851,flooding,10,13.035138,77.555511,2026-08-21T17:04:00,verified,Water accumulation reported on road,synthetic
+RG-000852,damaged_road,2,13.066067,77.591907,2026-04-12T21:44:00,reported,Road surface is damaged,synthetic
+RG-000853,broken_streetlight,6,12.9651,77.469431,2026-05-07T13:52:00,in_progress,Streetlight is not functioning,synthetic
+RG-000854,missing_sign,8,12.975454,77.464264,2026-07-08T02:25:00,in_progress,Important road sign is missing,synthetic
+RG-000855,pothole,3,13.0908,77.568206,2026-04-28T19:31:00,verified,Large pothole reported on the road,synthetic
+RG-000856,missing_sign,8,13.082638,77.542466,2026-06-17T12:19:00,resolved,Important road sign is missing,synthetic
+RG-000857,broken_streetlight,5,12.978295,77.721509,2026-02-17T22:41:00,reported,Streetlight is not functioning,synthetic
+RG-000858,flooding,10,13.099479,77.691403,2026-01-09T18:45:00,reported,Water accumulation reported on road,synthetic
+RG-000859,accident,10,12.96839,77.735068,2026-03-12T21:42:00,verified,Road accident reported,synthetic
+RG-000860,damaged_road,7,12.938821,77.718941,2026-03-02T02:08:00,reported,Road surface is damaged,synthetic
+RG-000861,damaged_road,9,12.986925,77.514033,2026-03-28T12:33:00,verified,Road surface is damaged,synthetic
+RG-000862,flooding,2,13.030793,77.641668,2026-04-30T16:44:00,reported,Water accumulation reported on road,synthetic
+RG-000863,damaged_road,9,12.883657,77.721878,2026-05-07T12:55:00,in_progress,Road surface is damaged,synthetic
+RG-000864,flooding,9,12.86042,77.657385,2026-07-17T11:49:00,verified,Water accumulation reported on road,synthetic
+RG-000865,accident,8,12.95413,77.667948,2026-02-16T21:00:00,resolved,Road accident reported,synthetic
+RG-000866,damaged_road,10,13.073985,77.653728,2026-04-02T19:44:00,reported,Road surface is damaged,synthetic
+RG-000867,flooding,6,12.902471,77.50796,2026-03-28T20:55:00,in_progress,Water accumulation reported on road,synthetic
+RG-000868,flooding,9,13.082935,77.735047,2026-04-29T21:46:00,resolved,Water accumulation reported on road,synthetic
+RG-000869,damaged_road,3,12.90999,77.646873,2026-06-28T18:53:00,in_progress,Road surface is damaged,synthetic
+RG-000870,broken_streetlight,5,13.038392,77.559841,2026-07-31T15:15:00,resolved,Streetlight is not functioning,synthetic
+RG-000871,pothole,1,12.904035,77.49097,2026-08-04T02:31:00,reported,Large pothole reported on the road,synthetic
+RG-000872,flooding,9,13.00769,77.485695,2026-06-10T21:18:00,verified,Water accumulation reported on road,synthetic
+RG-000873,pothole,10,12.942997,77.705885,2026-04-08T20:16:00,in_progress,Large pothole reported on the road,synthetic
+RG-000874,broken_streetlight,6,13.099278,77.553723,2026-04-01T05:41:00,reported,Streetlight is not functioning,synthetic
+RG-000875,damaged_road,7,12.89521,77.50403,2026-05-01T22:23:00,reported,Road surface is damaged,synthetic
+RG-000876,broken_streetlight,5,13.01522,77.680545,2026-04-27T09:41:00,resolved,Streetlight is not functioning,synthetic
+RG-000877,flooding,2,12.908958,77.609841,2026-07-07T03:21:00,in_progress,Water accumulation reported on road,synthetic
+RG-000878,pothole,2,12.858695,77.739488,2026-04-12T17:58:00,reported,Large pothole reported on the road,synthetic
+RG-000879,broken_streetlight,7,13.006255,77.598346,2026-05-06T01:48:00,resolved,Streetlight is not functioning,synthetic
+RG-000880,flooding,2,13.04833,77.670372,2026-07-26T02:37:00,resolved,Water accumulation reported on road,synthetic
+RG-000881,pothole,7,12.903801,77.715365,2026-07-30T06:33:00,in_progress,Large pothole reported on the road,synthetic
+RG-000882,damaged_road,8,12.855324,77.4785,2026-08-10T15:10:00,in_progress,Road surface is damaged,synthetic
+RG-000883,accident,6,13.044014,77.579265,2026-09-06T06:27:00,in_progress,Road accident reported,synthetic
+RG-000884,missing_sign,5,13.045426,77.684565,2026-02-19T23:04:00,reported,Important road sign is missing,synthetic
+RG-000885,flooding,5,13.089879,77.532061,2026-04-06T10:04:00,in_progress,Water accumulation reported on road,synthetic
+RG-000886,damaged_road,8,13.019113,77.457207,2026-08-18T05:01:00,verified,Road surface is damaged,synthetic
+RG-000887,pothole,7,13.026567,77.570393,2026-08-18T18:02:00,resolved,Large pothole reported on the road,synthetic
+RG-000888,damaged_road,4,12.879429,77.558997,2026-02-15T17:47:00,resolved,Road surface is damaged,synthetic
+RG-000889,missing_sign,2,12.867822,77.723324,2026-03-07T14:04:00,reported,Important road sign is missing,synthetic
+RG-000890,broken_streetlight,6,12.872327,77.724508,2026-08-30T21:15:00,in_progress,Streetlight is not functioning,synthetic
+RG-000891,accident,6,12.950749,77.652832,2026-01-31T20:15:00,reported,Road accident reported,synthetic
+RG-000892,accident,7,13.030113,77.584841,2026-04-09T17:17:00,reported,Road accident reported,synthetic
+RG-000893,missing_sign,2,12.884569,77.4647,2026-01-31T23:36:00,in_progress,Important road sign is missing,synthetic
+RG-000894,damaged_road,3,12.897203,77.575465,2026-04-12T00:06:00,verified,Road surface is damaged,synthetic
+RG-000895,flooding,9,13.070236,77.695703,2026-02-18T02:17:00,verified,Water accumulation reported on road,synthetic
+RG-000896,pothole,8,13.044549,77.673102,2026-01-29T19:27:00,reported,Large pothole reported on the road,synthetic
+RG-000897,flooding,4,12.953893,77.726652,2026-05-18T01:20:00,verified,Water accumulation reported on road,synthetic
+RG-000898,broken_streetlight,9,12.944187,77.565939,2026-05-25T21:50:00,reported,Streetlight is not functioning,synthetic
+RG-000899,flooding,9,12.949912,77.482415,2026-03-20T02:41:00,verified,Water accumulation reported on road,synthetic
+RG-000900,pothole,4,12.894295,77.619177,2026-03-16T22:28:00,reported,Large pothole reported on the road,synthetic
+RG-000901,broken_streetlight,10,12.89832,77.738763,2026-07-01T02:12:00,verified,Streetlight is not functioning,synthetic
+RG-000902,accident,10,12.960149,77.551083,2026-07-24T21:54:00,in_progress,Road accident reported,synthetic
+RG-000903,flooding,2,12.993285,77.64863,2026-07-15T07:42:00,in_progress,Water accumulation reported on road,synthetic
+RG-000904,pothole,9,13.007251,77.58664,2026-08-06T19:57:00,resolved,Large pothole reported on the road,synthetic
+RG-000905,damaged_road,9,12.850073,77.522247,2026-04-04T07:22:00,resolved,Road surface is damaged,synthetic
+RG-000906,missing_sign,7,12.94162,77.726946,2026-07-22T00:16:00,reported,Important road sign is missing,synthetic
+RG-000907,missing_sign,5,13.039541,77.595599,2026-03-03T03:49:00,verified,Important road sign is missing,synthetic
+RG-000908,pothole,6,13.081726,77.552695,2026-07-30T10:51:00,resolved,Large pothole reported on the road,synthetic
+RG-000909,broken_streetlight,3,12.99257,77.719641,2026-06-12T04:11:00,reported,Streetlight is not functioning,synthetic
+RG-000910,broken_streetlight,4,12.89361,77.495597,2026-07-21T16:28:00,in_progress,Streetlight is not functioning,synthetic
+RG-000911,pothole,4,12.895657,77.524245,2026-03-10T14:38:00,verified,Large pothole reported on the road,synthetic
+RG-000912,pothole,2,12.98887,77.487092,2026-08-11T08:53:00,in_progress,Large pothole reported on the road,synthetic
+RG-000913,damaged_road,8,12.929436,77.633493,2026-05-12T07:09:00,reported,Road surface is damaged,synthetic
+RG-000914,broken_streetlight,6,13.046904,77.724854,2026-04-17T12:07:00,resolved,Streetlight is not functioning,synthetic
+RG-000915,flooding,5,12.905508,77.675901,2026-03-18T12:30:00,in_progress,Water accumulation reported on road,synthetic
+RG-000916,pothole,3,12.854039,77.729752,2026-05-14T02:14:00,in_progress,Large pothole reported on the road,synthetic
+RG-000917,damaged_road,1,12.873564,77.495101,2026-02-09T22:09:00,reported,Road surface is damaged,synthetic
+RG-000918,broken_streetlight,4,13.023768,77.514764,2026-06-18T13:49:00,resolved,Streetlight is not functioning,synthetic
+RG-000919,pothole,9,12.961544,77.627828,2026-08-17T14:53:00,reported,Large pothole reported on the road,synthetic
+RG-000920,accident,9,12.905735,77.627567,2026-01-13T15:54:00,verified,Road accident reported,synthetic
+RG-000921,broken_streetlight,8,13.095325,77.468472,2026-01-14T06:52:00,in_progress,Streetlight is not functioning,synthetic
+RG-000922,accident,6,13.095048,77.529032,2026-02-14T12:43:00,resolved,Road accident reported,synthetic
+RG-000923,broken_streetlight,5,12.982727,77.491273,2026-03-24T12:17:00,resolved,Streetlight is not functioning,synthetic
+RG-000924,flooding,10,12.868025,77.530244,2026-01-09T04:21:00,verified,Water accumulation reported on road,synthetic
+RG-000925,missing_sign,10,12.939114,77.639119,2026-01-19T05:20:00,resolved,Important road sign is missing,synthetic
+RG-000926,pothole,3,12.99987,77.551192,2026-08-07T11:42:00,verified,Large pothole reported on the road,synthetic
+RG-000927,missing_sign,3,12.891172,77.699876,2026-03-02T02:55:00,verified,Important road sign is missing,synthetic
+RG-000928,flooding,9,12.921841,77.489773,2026-02-26T04:00:00,verified,Water accumulation reported on road,synthetic
+RG-000929,accident,4,12.989769,77.730656,2026-05-20T18:57:00,verified,Road accident reported,synthetic
+RG-000930,accident,4,12.932742,77.475005,2026-04-03T22:20:00,verified,Road accident reported,synthetic
+RG-000931,accident,10,12.897404,77.739389,2026-03-13T01:08:00,reported,Road accident reported,synthetic
+RG-000932,broken_streetlight,2,12.930592,77.481181,2026-09-05T09:04:00,reported,Streetlight is not functioning,synthetic
+RG-000933,flooding,3,13.04731,77.716415,2026-04-27T23:09:00,in_progress,Water accumulation reported on road,synthetic
+RG-000934,damaged_road,8,13.096295,77.602424,2026-04-20T09:48:00,resolved,Road surface is damaged,synthetic
+RG-000935,pothole,10,12.892484,77.576432,2026-05-02T10:56:00,in_progress,Large pothole reported on the road,synthetic
+RG-000936,accident,10,13.037184,77.450412,2026-07-15T08:30:00,verified,Road accident reported,synthetic
+RG-000937,missing_sign,7,12.921837,77.553434,2026-04-23T06:16:00,reported,Important road sign is missing,synthetic
+RG-000938,pothole,1,12.969385,77.452122,2026-08-23T18:32:00,in_progress,Large pothole reported on the road,synthetic
+RG-000939,broken_streetlight,6,12.98809,77.716179,2026-03-21T17:59:00,verified,Streetlight is not functioning,synthetic
+RG-000940,missing_sign,7,13.080932,77.613483,2026-06-02T03:49:00,in_progress,Important road sign is missing,synthetic
+RG-000941,pothole,4,12.868763,77.698239,2026-03-15T05:39:00,resolved,Large pothole reported on the road,synthetic
+RG-000942,damaged_road,3,13.014602,77.629047,2026-02-25T19:42:00,resolved,Road surface is damaged,synthetic
+RG-000943,broken_streetlight,1,13.013181,77.635154,2026-08-13T16:37:00,verified,Streetlight is not functioning,synthetic
+RG-000944,pothole,1,12.983965,77.737748,2026-03-23T23:06:00,resolved,Large pothole reported on the road,synthetic
+RG-000945,accident,4,13.060592,77.469486,2026-08-07T21:23:00,verified,Road accident reported,synthetic
+RG-000946,missing_sign,8,13.064864,77.725223,2026-03-26T07:39:00,resolved,Important road sign is missing,synthetic
+RG-000947,flooding,3,13.056399,77.45722,2026-01-23T08:46:00,resolved,Water accumulation reported on road,synthetic
+RG-000948,accident,3,12.936937,77.743318,2026-04-08T19:03:00,resolved,Road accident reported,synthetic
+RG-000949,damaged_road,10,12.926714,77.602452,2026-07-01T18:03:00,reported,Road surface is damaged,synthetic
+RG-000950,broken_streetlight,4,13.074519,77.598956,2026-03-02T22:38:00,reported,Streetlight is not functioning,synthetic
+RG-000951,accident,3,12.930459,77.626348,2026-01-14T12:58:00,in_progress,Road accident reported,synthetic
+RG-000952,pothole,10,12.995332,77.514746,2026-07-22T14:43:00,verified,Large pothole reported on the road,synthetic
+RG-000953,flooding,6,13.05735,77.684258,2026-05-24T01:25:00,verified,Water accumulation reported on road,synthetic
+RG-000954,pothole,6,12.994196,77.732042,2026-04-03T05:29:00,reported,Large pothole reported on the road,synthetic
+RG-000955,flooding,1,13.039532,77.545158,2026-05-13T18:43:00,reported,Water accumulation reported on road,synthetic
+RG-000956,accident,4,13.050443,77.494491,2026-06-23T05:26:00,reported,Road accident reported,synthetic
+RG-000957,broken_streetlight,9,12.8677,77.524516,2026-05-31T19:03:00,resolved,Streetlight is not functioning,synthetic
+RG-000958,broken_streetlight,3,12.905522,77.467067,2026-05-27T12:50:00,verified,Streetlight is not functioning,synthetic
+RG-000959,missing_sign,6,12.866395,77.543928,2026-05-11T09:04:00,resolved,Important road sign is missing,synthetic
+RG-000960,missing_sign,3,13.021274,77.595202,2026-08-24T03:21:00,verified,Important road sign is missing,synthetic
+RG-000961,missing_sign,3,13.095627,77.664429,2026-06-17T13:56:00,resolved,Important road sign is missing,synthetic
+RG-000962,flooding,7,12.99625,77.50276,2026-06-05T19:26:00,resolved,Water accumulation reported on road,synthetic
+RG-000963,flooding,9,12.993685,77.457437,2026-04-23T05:59:00,reported,Water accumulation reported on road,synthetic
+RG-000964,accident,9,12.876705,77.688049,2026-02-05T13:33:00,in_progress,Road accident reported,synthetic
+RG-000965,broken_streetlight,7,12.859098,77.697383,2026-06-07T18:31:00,reported,Streetlight is not functioning,synthetic
+RG-000966,pothole,9,13.019739,77.645645,2026-06-08T05:39:00,in_progress,Large pothole reported on the road,synthetic
+RG-000967,flooding,9,13.022304,77.508289,2026-05-07T14:20:00,verified,Water accumulation reported on road,synthetic
+RG-000968,flooding,3,12.861053,77.677905,2026-08-18T08:42:00,reported,Water accumulation reported on road,synthetic
+RG-000969,flooding,10,13.006387,77.529858,2026-05-20T10:07:00,reported,Water accumulation reported on road,synthetic
+RG-000970,pothole,4,13.052875,77.595812,2026-03-11T12:41:00,resolved,Large pothole reported on the road,synthetic
+RG-000971,broken_streetlight,1,12.860411,77.460388,2026-03-13T12:20:00,resolved,Streetlight is not functioning,synthetic
+RG-000972,damaged_road,3,12.930451,77.599684,2026-04-16T08:59:00,verified,Road surface is damaged,synthetic
+RG-000973,missing_sign,10,13.045441,77.555851,2026-01-04T14:33:00,in_progress,Important road sign is missing,synthetic
+RG-000974,missing_sign,4,12.916753,77.635836,2026-06-03T07:05:00,verified,Important road sign is missing,synthetic
+RG-000975,missing_sign,6,13.026504,77.551154,2026-04-09T19:19:00,reported,Important road sign is missing,synthetic
+RG-000976,damaged_road,5,13.03492,77.591313,2026-05-05T08:42:00,in_progress,Road surface is damaged,synthetic
+RG-000977,damaged_road,4,13.088715,77.736881,2026-01-20T16:51:00,in_progress,Road surface is damaged,synthetic
+RG-000978,accident,9,13.061723,77.644599,2026-03-23T08:01:00,verified,Road accident reported,synthetic
+RG-000979,flooding,9,12.863299,77.473577,2026-07-22T21:56:00,resolved,Water accumulation reported on road,synthetic
+RG-000980,missing_sign,7,13.005428,77.634217,2026-02-16T06:31:00,reported,Important road sign is missing,synthetic
+RG-000981,pothole,9,12.853471,77.57761,2026-06-11T10:22:00,verified,Large pothole reported on the road,synthetic
+RG-000982,damaged_road,2,13.030469,77.527838,2026-01-25T08:51:00,in_progress,Road surface is damaged,synthetic
+RG-000983,missing_sign,1,13.008119,77.518327,2026-06-22T03:22:00,resolved,Important road sign is missing,synthetic
+RG-000984,broken_streetlight,10,12.942456,77.550117,2026-05-17T23:17:00,in_progress,Streetlight is not functioning,synthetic
+RG-000985,pothole,2,13.051816,77.548582,2026-04-04T04:35:00,reported,Large pothole reported on the road,synthetic
+RG-000986,flooding,3,12.95904,77.73247,2026-05-28T02:36:00,reported,Water accumulation reported on road,synthetic
+RG-000987,pothole,7,12.913261,77.631017,2026-03-14T16:07:00,resolved,Large pothole reported on the road,synthetic
+RG-000988,pothole,4,13.077995,77.519,2026-06-19T15:29:00,resolved,Large pothole reported on the road,synthetic
+RG-000989,damaged_road,4,12.901612,77.484415,2026-04-12T13:31:00,in_progress,Road surface is damaged,synthetic
+RG-000990,missing_sign,1,12.994429,77.602145,2026-04-15T18:34:00,verified,Important road sign is missing,synthetic
+RG-000991,damaged_road,9,12.951279,77.479499,2026-07-01T16:28:00,resolved,Road surface is damaged,synthetic
+RG-000992,pothole,4,12.895826,77.703006,2026-03-06T10:05:00,reported,Large pothole reported on the road,synthetic
+RG-000993,accident,7,12.89476,77.638209,2026-04-21T20:16:00,reported,Road accident reported,synthetic
+RG-000994,broken_streetlight,8,12.969533,77.693434,2026-04-09T18:13:00,resolved,Streetlight is not functioning,synthetic
+RG-000995,accident,10,12.90913,77.578007,2026-02-16T11:23:00,resolved,Road accident reported,synthetic
+RG-000996,accident,5,12.945024,77.581992,2026-05-10T21:31:00,verified,Road accident reported,synthetic
+RG-000997,missing_sign,3,13.064254,77.480713,2026-05-24T04:38:00,in_progress,Important road sign is missing,synthetic
+RG-000998,accident,8,12.876584,77.659736,2026-06-19T20:40:00,resolved,Road accident reported,synthetic
+RG-000999,flooding,5,12.897642,77.747893,2026-01-17T10:04:00,reported,Water accumulation reported on road,synthetic
+RG-001000,accident,3,12.876216,77.696992,2026-01-07T03:59:00,resolved,Road accident reported,synthetic
