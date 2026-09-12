@@ -71,3 +71,54 @@ Bengaluru, Karnataka, India
 Long-term:
 
 India-wide deployment
+---
+
+## RoadGuard Data Model v0.2
+
+The initial RoadGuard implementation uses a practical schema designed
+for Bengaluru while remaining scalable to India-wide deployment.
+
+### Core Fields
+
+- hazard_id
+- hazard_type
+- hazard_category
+- description
+- latitude
+- longitude
+- coordinate_accuracy_m
+- geometry_type
+- road_name
+- road_segment_id
+- country_code
+- state_code
+- district_code
+- city_code
+- ward_code
+- severity
+- status
+- status_reason
+- reported_at
+- created_at
+- updated_at
+- ingestion_time
+- source_type
+- source_id
+- detection_method
+- source_confidence
+- model_confidence
+- schema_version
+- is_synthetic
+
+### Design Principles
+
+1. Synthetic records must be explicitly marked.
+2. Raw data must remain separate from processed data.
+3. Administrative codes are preferred over names as join keys.
+4. Timestamps must have consistent semantics.
+5. Geographic coordinates must be validated.
+6. Hazard, severity, and status values should use controlled vocabularies.
+7. AI confidence must remain separate from source confidence.
+8. The schema must support future Kafka and Spark processing.
+9. The schema must support expansion from Bengaluru to India.
+10. Personal information must not be stored in the core hazard dataset.
